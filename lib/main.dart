@@ -33,8 +33,11 @@ class MyApp extends StatelessWidget {
         debugShowCheckedModeBanner: false,
         title: 'English',
         theme: ThemeData(
+          fontFamily: 'Montserrat',
           colorScheme: ColorScheme.fromSeed(
-            seedColor: Colors.deepPurple,
+            seedColor: Color(0xFF2D6AE3),
+            primary: Color(0xFF2D6AE3),
+            secondary: Color(0xFFFFB400),
           ),
         ),
         locale: Locale('ru'),

@@ -58,3 +58,4 @@ dependencies:
   flutter_phoenix: ^1.1.1
   skeletonizer: ^1.4.3
   flutter_svg: ^2.0.9
+  font_awesome_flutter: ^10.9.1

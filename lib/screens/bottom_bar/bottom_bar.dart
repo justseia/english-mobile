@@ -88,20 +88,20 @@ class _BottomBarState extends State<BottomBar> {
           ],
         ),
         child: BottomNavigationBar(
-          selectedItemColor: AppColors.secondaryColor,
-          unselectedItemColor: AppColors.secondaryColor,
+          selectedItemColor: AppColors.mainColor,
+          unselectedItemColor: AppColors.unselected,
           backgroundColor: AppColors.white,
           elevation: 0,
           type: BottomNavigationBarType.fixed,
           currentIndex: widget.navigationShell.currentIndex,
           selectedLabelStyle: const TextStyle(
             fontSize: 14,
-            color: AppColors.secondaryColor,
+            color: AppColors.mainColor,
             fontWeight: FontWeight.w500,
           ),
           unselectedLabelStyle: const TextStyle(
             fontSize: 14,
-            color: AppColors.secondaryColor,
+            color: AppColors.unselected,
             fontWeight: FontWeight.w500,
           ),
           onTap: (value) {
@@ -110,13 +110,15 @@ class _BottomBarState extends State<BottomBar> {
           items: [
             BottomNavigationBarItem(
               icon: CircleAvatar(
-                backgroundColor: GoRouter.of(context).routerDelegate.currentConfiguration.uri.path == '/${AppRoute.home}' ? AppColors.secondaryColor : AppColors.transparent,
-                child: SvgPicture.asset(
-                  'assets/icons/home.svg',
-                  width: 15,
-                  colorFilter: ColorFilter.mode(
-                    GoRouter.of(context).routerDelegate.currentConfiguration.uri.path == '/${AppRoute.home}' ? AppColors.white : AppColors.secondaryColor,
-                    BlendMode.srcIn,
+                backgroundColor: AppColors.transparent,
+                child: Padding(
+                  padding: const EdgeInsets.all(8.0),
+                  child: SvgPicture.asset(
+                    'assets/icons/home.svg',
+                    colorFilter: ColorFilter.mode(
+                      GoRouter.of(context).routerDelegate.currentConfiguration.uri.path == '/${AppRoute.home}' ? AppColors.mainColor : AppColors.unselected,
+                      BlendMode.srcIn,
+                    ),
                   ),
                 ),
               ),
@@ -124,14 +126,15 @@ class _BottomBarState extends State<BottomBar> {
             ),
             BottomNavigationBarItem(
               icon: CircleAvatar(
-                backgroundColor: GoRouter.of(context).routerDelegate.currentConfiguration.uri.path == '/${AppRoute.profile}' ? AppColors.secondaryColor : AppColors.transparent,
-                child: SvgPicture.asset(
-                  'assets/icons/profile.svg',
-                  width: 15,
-                  height: 12,
-                  colorFilter: ColorFilter.mode(
-                    GoRouter.of(context).routerDelegate.currentConfiguration.uri.path == '/${AppRoute.profile}' ? AppColors.white : AppColors.secondaryColor,
-                    BlendMode.srcIn,
+                backgroundColor: AppColors.transparent,
+                child: Padding(
+                  padding: const EdgeInsets.all(8.0),
+                  child: SvgPicture.asset(
+                    'assets/icons/profile.svg',
+                    colorFilter: ColorFilter.mode(
+                      GoRouter.of(context).routerDelegate.currentConfiguration.uri.path == '/${AppRoute.profile}' ? AppColors.mainColor : AppColors.unselected,
+                      BlendMode.srcIn,
+                    ),
                   ),
                 ),
               ),

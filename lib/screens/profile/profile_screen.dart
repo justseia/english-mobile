@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import '../../core/utils/colors.dart';
+
 class ProfileScreen extends StatefulWidget {
   const ProfileScreen({super.key});
 
@@ -10,6 +12,9 @@ class ProfileScreen extends StatefulWidget {
 class _ProfileScreenState extends State<ProfileScreen> {
   @override
   Widget build(BuildContext context) {
-    return SingleChildScrollView();
+    return Scaffold(
+      backgroundColor: AppColors.white,
+      body: SingleChildScrollView(),
+    );
   }
 }
