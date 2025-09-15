@@ -1,3 +1,186 @@
-{
-  "we": "мы"
-}
+[
+  [
+    [
+      {
+        "word": "сильный, күшті",
+        "translate": "strong"
+      },
+      {
+        "word": "умный, ақылды",
+        "translate": "clever\/smart"
+      },
+      {
+        "word": "знаменитый, атақты",
+        "translate": "famous"
+      }
+    ],
+    [
+      {
+        "word": "ревнивый, қызғаншақ",
+        "translate": "jealous"
+      },
+      {
+        "word": "добрый, мейірімді",
+        "translate": "kind"
+      },
+      {
+        "word": "нежный, нәзік",
+        "translate": "tender"
+      }
+    ],
+    [
+      {
+        "word": "вежливый, сыпайы",
+        "translate": "polite"
+      },
+      {
+        "word": "упрямый, қырсық",
+        "translate": "stubborn"
+      },
+      {
+        "word": "хитрый, Қу",
+        "translate": "sly"
+      }
+    ],
+    [
+      {
+        "word": "застенчивый, ұялшақ",
+        "translate": "shy"
+      },
+      {
+        "word": "терпеливый, сабырлы",
+        "translate": "patient"
+      },
+      {
+        "word": "глупый, ақымақ",
+        "translate": "stupid"
+      }
+    ],
+    [
+      {
+        "word": "уродливый, ұсқынсыз",
+        "translate": "ugly"
+      },
+      {
+        "word": "эгоистичный, өзімшіл",
+        "translate": "selfish"
+      },
+      {
+        "word": "простой, қарапайым",
+        "translate": "simple"
+      }
+    ],
+    [
+      {
+        "word": "радостный, көңілді",
+        "translate": "joyful"
+      },
+      {
+        "word": "бедный, кедей",
+        "translate": "poor"
+      },
+      {
+        "word": "богатый, бай",
+        "translate": "rich"
+      }
+    ],
+    [
+      {
+        "word": "ленивый, еріншек",
+        "translate": "lazy"
+      },
+      {
+        "word": "жирный, толық",
+        "translate": "fat"
+      },
+      {
+        "word": "мудрый, дана",
+        "translate": "wise"
+      }
+    ],
+    [
+      {
+        "word": "ответственный, жауапты",
+        "translate": "responsible"
+      },
+      {
+        "word": "Любопытный, Әуесшіл",
+        "translate": "curious"
+      },
+      {
+        "word": "водитель, жүргізуші",
+        "translate": "driver"
+      }
+    ],
+    [
+      {
+        "word": "дантист, тіс дәрігері",
+        "translate": "dentist"
+      },
+      {
+        "word": "сантехник",
+        "translate": "plumber"
+      },
+      {
+        "word": "уборщик, тазалаушы",
+        "translate": "cleaner"
+      }
+    ],
+    [
+      {
+        "word": "пилот, ұшқыш",
+        "translate": "pilot"
+      },
+      {
+        "word": "медсестра, медбике",
+        "translate": "nurse"
+      },
+      {
+        "word": "воспитатель, тәрбиеші",
+        "translate": "educator"
+      }
+    ],
+    [
+      {
+        "word": "продавец, сатушы",
+        "translate": "salesman"
+      },
+      {
+        "word": "юрист, заңгер",
+        "translate": "lawyer"
+      },
+      {
+        "word": "переводчик, аудармашы",
+        "translate": "interpreter"
+      }
+    ],
+    [
+      {
+        "word": "садовник, бағбан",
+        "translate": "gardener"
+      },
+      {
+        "word": "строитель, құрылысшы",
+        "translate": "builder"
+      },
+      {
+        "word": "повар, аспаз",
+        "translate": "cook"
+      }
+    ],
+    [
+      {
+        "word": "библиотекарь, кітапханашы",
+        "translate": "librarian"
+      },
+      {
+        "word": "бухгалтер, есепші",
+        "translate": "bookkeeper"
+      },
+      {
+        "word": "Трус, Қорқақ",
+        "translate": "Coward"
+      }
+    ]
+  ]
+]

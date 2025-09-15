@@ -1,5 +1,7 @@
+import 'package:english/routes/route_constants.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:go_router/go_router.dart';
 import 'package:skeletonizer/skeletonizer.dart';
 
 import '../../core/utils/colors.dart';
@@ -35,7 +37,36 @@ class _HomeScreenState extends State<HomeScreen> {
             child: SingleChildScrollView(
               child: Column(
                 children: [
-                  Text('Home Screen'),
+                  GridView.count(
+                    shrinkWrap: true,
+                    crossAxisCount: 4,
+                    crossAxisSpacing: 10,
+                    mainAxisSpacing: 10,
+                    padding: EdgeInsets.all(10),
+                    children: List.generate(6, (index) {
+                      return GestureDetector(
+                        onTap: () {
+                          context.push('/${AppRoute.home}/$index');
+                        },
+                        child: Skeleton.shade(
+                          child: Container(
+                            alignment: Alignment.center,
+                            decoration: BoxDecoration(
+                              color: AppColors.mainColor,
+                              borderRadius: BorderRadius.circular(12),
+                            ),
+                            child: Text(
+                              '${index + 1}',
+                              style: TextStyle(
+                                color: AppColors.white,
+                                fontSize: 20,
+                              ),
+                            ),
+                          ),
+                        ),
+                      );
+                    }),
+                  ),
                 ],
               ),
             ),

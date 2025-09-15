@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import '../screens/bottom_bar/bottom_bar.dart';
 import '../screens/home/home_screen.dart';
+import '../screens/home/screens/test_screen.dart';
 import '../screens/profile/profile_screen.dart';
 import 'route_constants.dart';
 
@@ -28,7 +29,7 @@ class EnglishRoute {
   static final rootNavigatorKey = GlobalKey<NavigatorState>();
 
   final GoRouter generateRoute = GoRouter(
-    initialLocation: kDebugMode ? '/' : '/${AppRoute.home}',
+    initialLocation: kDebugMode ? '/home/1' : '/${AppRoute.home}',
     debugLogDiagnostics: true,
     navigatorKey: rootNavigatorKey,
     routes: <RouteBase>[
@@ -47,25 +48,20 @@ class EnglishRoute {
                     child: const HomeScreen(),
                   );
                 },
-                // routes: [
-                //   GoRoute(
-                //     path: ':id',
-                //     parentNavigatorKey: rootNavigatorKey,
-                //     pageBuilder: (context, routerState) {
-                //       final Map<String, dynamic> extra = {};
-                //       if (routerState.extra != null) {
-                //         extra.addAll(routerState.extra as Map<String, dynamic>);
-                //       }
-                //       return createPage(
-                //         key: routerState.pageKey,
-                //         child: JobSingleScreen(
-                //           jobId: routerState.pathParameters['id']!,
-                //           repeat: extra['repeat'] as bool? ?? false,
-                //         ),
-                //       );
-                //     },
-                //   ),
-                // ],
+                routes: [
+                  GoRoute(
+                    path: ':id',
+                    parentNavigatorKey: rootNavigatorKey,
+                    pageBuilder: (context, routerState) {
+                      return createPage(
+                        key: routerState.pageKey,
+                        child: TestScreen(
+                          id: routerState.pathParameters['id']!,
+                        ),
+                      );
+                    },
+                  ),
+                ],
               ),
             ],
           ),

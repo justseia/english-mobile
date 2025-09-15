@@ -104,6 +104,24 @@ abstract class AppLocalizations {
   /// In ru, this message translates to:
   /// **'Профиль'**
   String get profile;
+
+  /// No description provided for @test.
+  ///
+  /// In ru, this message translates to:
+  /// **'Тест'**
+  String get test;
+
+  /// No description provided for @next.
+  ///
+  /// In ru, this message translates to:
+  /// **'Далее'**
+  String get next;
+
+  /// No description provided for @show.
+  ///
+  /// In ru, this message translates to:
+  /// **'Показать'**
+  String get show;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {
