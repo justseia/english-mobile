@@ -7,7 +7,10 @@ import '../../l10n/generated/app_localizations.dart';
 import '../../routes/route_constants.dart';
 
 class BottomBar extends StatefulWidget {
-  const BottomBar({super.key, required this.navigationShell});
+  const BottomBar({
+    super.key,
+    required this.navigationShell,
+  });
 
   final StatefulNavigationShell navigationShell;
 
@@ -16,11 +19,19 @@ class BottomBar extends StatefulWidget {
 }
 
 class _BottomBarState extends State<BottomBar> {
-  late List<String> titleAppBar;
+  late List<String> titleAppBar = [
+    AppLocalizations.of(context)!.home,
+    AppLocalizations.of(context)!.profile,
+  ];
 
   @override
   void initState() {
     super.initState();
+  }
+
+  @override
+  void didChangeDependencies() {
+    super.didChangeDependencies();
   }
 
   @override
@@ -37,10 +48,6 @@ class _BottomBarState extends State<BottomBar> {
 
   @override
   Widget build(BuildContext context) {
-    titleAppBar = [
-      'Home',
-    ];
-
     return Scaffold(
       backgroundColor: AppColors.white,
       appBar: PreferredSize(
@@ -119,7 +126,7 @@ class _BottomBarState extends State<BottomBar> {
               icon: CircleAvatar(
                 backgroundColor: GoRouter.of(context).routerDelegate.currentConfiguration.uri.path == '/${AppRoute.profile}' ? AppColors.secondaryColor : AppColors.transparent,
                 child: SvgPicture.asset(
-                  'assets/icons/menu.svg',
+                  'assets/icons/profile.svg',
                   width: 15,
                   height: 12,
                   colorFilter: ColorFilter.mode(

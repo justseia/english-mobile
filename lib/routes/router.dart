@@ -3,6 +3,8 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import '../screens/bottom_bar/bottom_bar.dart';
+import '../screens/home/home_screen.dart';
+import '../screens/profile/profile_screen.dart';
 import 'route_constants.dart';
 
 Page<dynamic> createPage({
@@ -42,28 +44,28 @@ class EnglishRoute {
                 pageBuilder: (context, routerState) {
                   return createPage(
                     key: routerState.pageKey,
-                    child: const JobsScreen(),
+                    child: const HomeScreen(),
                   );
                 },
-                routes: [
-                  GoRoute(
-                    path: ':id',
-                    parentNavigatorKey: rootNavigatorKey,
-                    pageBuilder: (context, routerState) {
-                      final Map<String, dynamic> extra = {};
-                      if (routerState.extra != null) {
-                        extra.addAll(routerState.extra as Map<String, dynamic>);
-                      }
-                      return createPage(
-                        key: routerState.pageKey,
-                        child: JobSingleScreen(
-                          jobId: routerState.pathParameters['id']!,
-                          repeat: extra['repeat'] as bool? ?? false,
-                        ),
-                      );
-                    },
-                  ),
-                ],
+                // routes: [
+                //   GoRoute(
+                //     path: ':id',
+                //     parentNavigatorKey: rootNavigatorKey,
+                //     pageBuilder: (context, routerState) {
+                //       final Map<String, dynamic> extra = {};
+                //       if (routerState.extra != null) {
+                //         extra.addAll(routerState.extra as Map<String, dynamic>);
+                //       }
+                //       return createPage(
+                //         key: routerState.pageKey,
+                //         child: JobSingleScreen(
+                //           jobId: routerState.pathParameters['id']!,
+                //           repeat: extra['repeat'] as bool? ?? false,
+                //         ),
+                //       );
+                //     },
+                //   ),
+                // ],
               ),
             ],
           ),
@@ -74,7 +76,7 @@ class EnglishRoute {
                 pageBuilder: (context, routerState) {
                   return createPage(
                     key: routerState.pageKey,
-                    child: const JobsScreen(),
+                    child: const ProfileScreen(),
                   );
                 },
               ),

@@ -1,6 +1,3 @@
-q:
-    adb shell am start -a android.intent.action.VIEW \ -c android.intent.category.BROWSABLE \ -d https://master.top.kz/jobs/1
-
 git:
 	git add .
 	git commit -m 'update'

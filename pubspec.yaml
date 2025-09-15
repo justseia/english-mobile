@@ -18,6 +18,7 @@ flutter:
   assets:
     - .env
     - assets/fonts/
+    - assets/icons/
     - l10n.yaml
 
   fonts:
