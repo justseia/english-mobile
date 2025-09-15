@@ -7,10 +7,19 @@ sealed class HomeState extends Equatable {
   List<Object> get props => [];
 }
 
-final class HomeInitial extends HomeState {}
+final class FetchWordsInitial extends HomeState {}
 
-final class HomeLoading extends HomeState {}
+final class FetchWordsLoading extends HomeState {}
 
-final class HomeSuccess extends HomeState {}
+final class FetchWordsSuccess extends HomeState {}
 
-final class HomeError extends HomeState {}
+final class FetchWordsError extends HomeState {
+  const FetchWordsError({
+    required this.message,
+  });
+
+  final String message;
+
+  @override
+  List<Object> get props => [message];
+}

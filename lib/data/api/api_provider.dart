@@ -18,8 +18,8 @@ class ApiProvider {
     };
   }
 
-  Future<http.Response> getWords(String fcmToken) async {
-    final response = await http.post(
+  Future<http.Response> getWords() async {
+    final response = await http.get(
       Uri.parse('$baseUrlApi/english-mobile/refs/heads/main/words.json'),
       headers: await headers,
     );

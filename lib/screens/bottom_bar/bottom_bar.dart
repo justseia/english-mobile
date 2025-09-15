@@ -82,7 +82,7 @@ class _BottomBarState extends State<BottomBar> {
           color: AppColors.white,
           boxShadow: [
             BoxShadow(
-              color: AppColors.black.withValues(alpha: .25),
+              color: AppColors.black.withValues(alpha: .1),
               blurRadius: 4,
             ),
           ],
@@ -110,15 +110,14 @@ class _BottomBarState extends State<BottomBar> {
           items: [
             BottomNavigationBarItem(
               icon: CircleAvatar(
+                radius: 14,
                 backgroundColor: AppColors.transparent,
-                child: Padding(
-                  padding: const EdgeInsets.all(8.0),
-                  child: SvgPicture.asset(
-                    'assets/icons/home.svg',
-                    colorFilter: ColorFilter.mode(
-                      GoRouter.of(context).routerDelegate.currentConfiguration.uri.path == '/${AppRoute.home}' ? AppColors.mainColor : AppColors.unselected,
-                      BlendMode.srcIn,
-                    ),
+                child: SvgPicture.asset(
+                  GoRouter.of(context).routerDelegate.currentConfiguration.uri.path == '/${AppRoute.home}' ? 'assets/icons/home-fill.svg' : 'assets/icons/home.svg',
+                  width: 24,
+                  colorFilter: ColorFilter.mode(
+                    GoRouter.of(context).routerDelegate.currentConfiguration.uri.path == '/${AppRoute.home}' ? AppColors.mainColor : AppColors.unselected,
+                    BlendMode.srcIn,
                   ),
                 ),
               ),
@@ -126,15 +125,14 @@ class _BottomBarState extends State<BottomBar> {
             ),
             BottomNavigationBarItem(
               icon: CircleAvatar(
+                radius: 14,
                 backgroundColor: AppColors.transparent,
-                child: Padding(
-                  padding: const EdgeInsets.all(8.0),
-                  child: SvgPicture.asset(
-                    'assets/icons/profile.svg',
-                    colorFilter: ColorFilter.mode(
-                      GoRouter.of(context).routerDelegate.currentConfiguration.uri.path == '/${AppRoute.profile}' ? AppColors.mainColor : AppColors.unselected,
-                      BlendMode.srcIn,
-                    ),
+                child: SvgPicture.asset(
+                  GoRouter.of(context).routerDelegate.currentConfiguration.uri.path == '/${AppRoute.profile}' ? 'assets/icons/profile-fill.svg' : 'assets/icons/profile.svg',
+                  height: 24,
+                  colorFilter: ColorFilter.mode(
+                    GoRouter.of(context).routerDelegate.currentConfiguration.uri.path == '/${AppRoute.profile}' ? AppColors.mainColor : AppColors.unselected,
+                    BlendMode.srcIn,
                   ),
                 ),
               ),
