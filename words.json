@@ -1,186 +1,6080 @@
 [
   [
-    [
-      {
-        "word": "сильный, күшті",
-        "translate": "strong"
-      },
-      {
-        "word": "умный, ақылды",
-        "translate": "clever\/smart"
-      },
-      {
-        "word": "знаменитый, атақты",
-        "translate": "famous"
-      }
-    ],
-    [
-      {
-        "word": "ревнивый, қызғаншақ",
-        "translate": "jealous"
-      },
-      {
-        "word": "добрый, мейірімді",
-        "translate": "kind"
-      },
-      {
-        "word": "нежный, нәзік",
-        "translate": "tender"
-      }
-    ],
-    [
-      {
-        "word": "вежливый, сыпайы",
-        "translate": "polite"
-      },
-      {
-        "word": "упрямый, қырсық",
-        "translate": "stubborn"
-      },
-      {
-        "word": "хитрый, Қу",
-        "translate": "sly"
-      }
-    ],
-    [
-      {
-        "word": "застенчивый, ұялшақ",
-        "translate": "shy"
-      },
-      {
-        "word": "терпеливый, сабырлы",
-        "translate": "patient"
-      },
-      {
-        "word": "глупый, ақымақ",
-        "translate": "stupid"
-      }
-    ],
-    [
-      {
-        "word": "уродливый, ұсқынсыз",
-        "translate": "ugly"
-      },
-      {
-        "word": "эгоистичный, өзімшіл",
-        "translate": "selfish"
-      },
-      {
-        "word": "простой, қарапайым",
-        "translate": "simple"
-      }
-    ],
-    [
-      {
-        "word": "радостный, көңілді",
-        "translate": "joyful"
-      },
-      {
-        "word": "бедный, кедей",
-        "translate": "poor"
-      },
-      {
-        "word": "богатый, бай",
-        "translate": "rich"
-      }
-    ],
-    [
-      {
-        "word": "ленивый, еріншек",
-        "translate": "lazy"
-      },
-      {
-        "word": "жирный, толық",
-        "translate": "fat"
-      },
-      {
-        "word": "мудрый, дана",
-        "translate": "wise"
-      }
-    ],
-    [
-      {
-        "word": "ответственный, жауапты",
-        "translate": "responsible"
-      },
-      {
-        "word": "Любопытный, Әуесшіл",
-        "translate": "curious"
-      },
-      {
-        "word": "водитель, жүргізуші",
-        "translate": "driver"
-      }
-    ],
-    [
-      {
-        "word": "дантист, тіс дәрігері",
-        "translate": "dentist"
-      },
-      {
-        "word": "сантехник",
-        "translate": "plumber"
-      },
-      {
-        "word": "уборщик, тазалаушы",
-        "translate": "cleaner"
-      }
-    ],
-    [
-      {
-        "word": "пилот, ұшқыш",
-        "translate": "pilot"
-      },
-      {
-        "word": "медсестра, медбике",
-        "translate": "nurse"
-      },
-      {
-        "word": "воспитатель, тәрбиеші",
-        "translate": "educator"
-      }
-    ],
-    [
-      {
-        "word": "продавец, сатушы",
-        "translate": "salesman"
-      },
-      {
-        "word": "юрист, заңгер",
-        "translate": "lawyer"
-      },
-      {
-        "word": "переводчик, аудармашы",
-        "translate": "interpreter"
-      }
-    ],
-    [
-      {
-        "word": "садовник, бағбан",
-        "translate": "gardener"
-      },
-      {
-        "word": "строитель, құрылысшы",
-        "translate": "builder"
-      },
-      {
-        "word": "повар, аспаз",
-        "translate": "cook"
-      }
-    ],
-    [
-      {
-        "word": "библиотекарь, кітапханашы",
-        "translate": "librarian"
-      },
-      {
-        "word": "бухгалтер, есепші",
-        "translate": "bookkeeper"
-      },
-      {
-        "word": "Трус, Қорқақ",
-        "translate": "Coward"
-      }
-    ]
+    {
+      "word": "әдемі, красивый",
+      "translate": "beautiful"
+    },
+    {
+      "word": "күшті, сильный",
+      "translate": "strong"
+    },
+    {
+      "word": "ақылды, умный",
+      "translate": "clever\/smart"
+    },
+    {
+      "word": "атақты, знаменитый",
+      "translate": "famous"
+    },
+    {
+      "word": "қызғаншақ, ревнивый",
+      "translate": "jealous"
+    },
+    {
+      "word": "мейірімді, добрый",
+      "translate": "kind"
+    },
+    {
+      "word": "нәзік, нежный",
+      "translate": "tender"
+    },
+    {
+      "word": "сыпайы, вежливый",
+      "translate": "polite"
+    },
+    {
+      "word": "қырсық, упрямый",
+      "translate": "stubborn"
+    },
+    {
+      "word": "Қу, хитрый",
+      "translate": "sly"
+    },
+    {
+      "word": "ұялшақ, застенчивый",
+      "translate": "shy"
+    },
+    {
+      "word": "сабырлы, терпеливый",
+      "translate": "patient"
+    },
+    {
+      "word": "ақымақ, глупый",
+      "translate": "stupid"
+    },
+    {
+      "word": "ұсқынсыз, уродливый",
+      "translate": "ugly"
+    },
+    {
+      "word": "өзімшіл, эгоистичный",
+      "translate": "selfish"
+    },
+    {
+      "word": "қарапайым, простой",
+      "translate": "simple"
+    },
+    {
+      "word": "көңілді, радостный",
+      "translate": "joyful"
+    },
+    {
+      "word": "кедей, бедный",
+      "translate": "poor"
+    },
+    {
+      "word": "бай, богатый",
+      "translate": "rich"
+    },
+    {
+      "word": "еріншек, ленивый",
+      "translate": "lazy"
+    },
+    {
+      "word": "толық, жирный",
+      "translate": "fat"
+    },
+    {
+      "word": "дана, мудрый",
+      "translate": "wise"
+    },
+    {
+      "word": "жауапты, ответственный",
+      "translate": "responsible"
+    },
+    {
+      "word": "Әуесшіл, Любопытный",
+      "translate": "curious"
+    },
+    {
+      "word": "жүргізуші, водитель",
+      "translate": "driver"
+    },
+    {
+      "word": "тіс дәрігері, дантист",
+      "translate": "dentist"
+    },
+    {
+      "word": "сантехник",
+      "translate": "plumber"
+    },
+    {
+      "word": "тазалаушы, уборщик",
+      "translate": "cleaner"
+    },
+    {
+      "word": "ұшқыш, пилот",
+      "translate": "pilot"
+    },
+    {
+      "word": "медбике, медсестра",
+      "translate": "nurse"
+    },
+    {
+      "word": "тәрбиеші, воспитатель",
+      "translate": "educator"
+    },
+    {
+      "word": "сатушы, продавец",
+      "translate": "salesman"
+    },
+    {
+      "word": "заңгер, юрист",
+      "translate": "lawyer"
+    },
+    {
+      "word": "аудармашы, переводчик",
+      "translate": "interpreter"
+    },
+    {
+      "word": "бағбан, садовник",
+      "translate": "gardener"
+    },
+    {
+      "word": "құрылысшы, строитель",
+      "translate": "builder"
+    },
+    {
+      "word": "аспаз, повар",
+      "translate": "cook"
+    },
+    {
+      "word": "кітапханашы, библиотекарь",
+      "translate": "librarian"
+    },
+    {
+      "word": "есепші, бухгалтер",
+      "translate": "bookkeeper"
+    },
+    {
+      "word": "Қорқақ, Трус",
+      "translate": "Coward"
+    }
+  ],
+  [
+    {
+      "word": "костюм",
+      "translate": "suit"
+    },
+    {
+      "word": "рубашка",
+      "translate": "shirt"
+    },
+    {
+      "word": "галстук",
+      "translate": "tie"
+    },
+    {
+      "word": "көйлек",
+      "translate": "dress"
+    },
+    {
+      "word": "юбка",
+      "translate": "skirt"
+    },
+    {
+      "word": "куртка",
+      "translate": "jacket"
+    },
+    {
+      "word": "футболка",
+      "translate": "t-shirt"
+    },
+    {
+      "word": "шалбар",
+      "translate": "trousers"
+    },
+    {
+      "word": "перчатки",
+      "translate": "Gloves"
+    },
+    {
+      "word": "кроссовки",
+      "translate": "Sneakers"
+    },
+    {
+      "word": "пальто",
+      "translate": "coat"
+    },
+    {
+      "word": "аяқ-киім",
+      "translate": "shoes"
+    },
+    {
+      "word": "тапочка",
+      "translate": "slipper"
+    },
+    {
+      "word": "шарф",
+      "translate": "scarf"
+    },
+    {
+      "word": "носки",
+      "translate": "socks"
+    },
+    {
+      "word": "шляпа",
+      "translate": "hat"
+    },
+    {
+      "word": "магазин, базар",
+      "translate": "shop,market"
+    },
+    {
+      "word": "ремень",
+      "translate": "belt"
+    },
+    {
+      "word": "карман",
+      "translate": "pocket"
+    },
+    {
+      "word": "әмиян",
+      "translate": "wallet"
+    },
+    {
+      "word": "кесте",
+      "translate": "timetable"
+    },
+    {
+      "word": "дәптер",
+      "translate": "copy-book"
+    },
+    {
+      "word": "парақ",
+      "translate": "paper"
+    },
+    {
+      "word": "сумка",
+      "translate": "bag"
+    },
+    {
+      "word": "парта",
+      "translate": "desk"
+    },
+    {
+      "word": "орындық",
+      "translate": "chair"
+    },
+    {
+      "word": "бор",
+      "translate": "chalk"
+    },
+    {
+      "word": "тақта",
+      "translate": "blackboard"
+    },
+    {
+      "word": "стипендия",
+      "translate": "scholarship"
+    },
+    {
+      "word": "класстас",
+      "translate": "classmatе"
+    },
+    {
+      "word": "группалас",
+      "translate": "groupmate"
+    },
+    {
+      "word": "информация",
+      "translate": "information"
+    },
+    {
+      "word": "қызықты",
+      "translate": "interesting"
+    },
+    {
+      "word": "сөздік",
+      "translate": "dictionary"
+    },
+    {
+      "word": "экзамен",
+      "translate": "examination"
+    },
+    {
+      "word": "сұрақ",
+      "translate": "question"
+    },
+    {
+      "word": "бүгін",
+      "translate": "today"
+    },
+    {
+      "word": "ертең",
+      "translate": "tomorrow"
+    },
+    {
+      "word": "кеше | ай | апта | жыл",
+      "translate": "yesterday | month | week |\nyear"
+    },
+    {
+      "word": "шет тілі",
+      "translate": "foreign language"
+    }
+  ],
+  [
+    {
+      "word": "жақсы көру, любить",
+      "translate": "love"
+    },
+    {
+      "word": "ойнау, играть",
+      "translate": "play"
+    },
+    {
+      "word": "секіру, прыгать",
+      "translate": "jump"
+    },
+    {
+      "word": "тамақ дайындау, готовить",
+      "translate": "cook"
+    },
+    {
+      "word": "қоңырау шалу, звонить",
+      "translate": "call"
+    },
+    {
+      "word": "сурау, спрашивать",
+      "translate": "ask"
+    },
+    {
+      "word": "жауап беру, отвечать",
+      "translate": "answer"
+    },
+    {
+      "word": "сыйлау, уважать",
+      "translate": "respect"
+    },
+    {
+      "word": "ашу, открыть",
+      "translate": "open"
+    },
+    {
+      "word": "жабу, закрывать",
+      "translate": "close"
+    },
+    {
+      "word": "дауласу, спорить",
+      "translate": "argue"
+    },
+    {
+      "word": "араласу, общаться",
+      "translate": "communicate"
+    },
+    {
+      "word": "оқу, учиться",
+      "translate": "study"
+    },
+    {
+      "word": "тазалау, чистить",
+      "translate": "clean"
+    },
+    {
+      "word": "ауыстыру, менять",
+      "translate": "change"
+    },
+    {
+      "word": "ойлап табу, изобретать",
+      "translate": "invent"
+    },
+    {
+      "word": "демалу, отдыхать",
+      "translate": "rest"
+    },
+    {
+      "word": "өлтіру, убить",
+      "translate": "kill"
+    },
+    {
+      "word": "билеу, танцевать",
+      "translate": "dance"
+    },
+    {
+      "word": "әзіл айту, шутить",
+      "translate": "joke"
+    },
+    {
+      "word": "сипаттау, описывать",
+      "translate": "describe"
+    },
+    {
+      "word": "ұнату, нравиться",
+      "translate": "like"
+    },
+    {
+      "word": "жұмыс істеу, работать",
+      "translate": "work"
+    },
+    {
+      "word": "көмектесу, помогать",
+      "translate": "help"
+    },
+    {
+      "word": "сену, верить",
+      "translate": "believe"
+    },
+    {
+      "word": "жылау, плакать",
+      "translate": "cry"
+    },
+    {
+      "word": "рұқсат ету, разрешать",
+      "translate": "allow"
+    },
+    {
+      "word": "өмір сүру, жить",
+      "translate": "live"
+    },
+    {
+      "word": "сыйлық беру, подарить",
+      "translate": "present"
+    },
+    {
+      "word": "бұйрық беру, приказать",
+      "translate": "command"
+    },
+    {
+      "word": "жинау, собирать",
+      "translate": "collect"
+    },
+    {
+      "word": "төлеу, платить",
+      "translate": "pay"
+    },
+    {
+      "word": "қыдыру, гулять",
+      "translate": "walk"
+    },
+    {
+      "word": "аудару, переводить",
+      "translate": "translate"
+    },
+    {
+      "word": "саяхаттау, путешествовать",
+      "translate": "travel"
+    },
+    {
+      "word": "әрлеу, наряжать",
+      "translate": "design"
+    },
+    {
+      "word": "шабуыл жасау, атаковать",
+      "translate": "attack"
+    },
+    {
+      "word": "есте сақтау, запомнить",
+      "translate": "memorize"
+    },
+    {
+      "word": "ұсыну, предлагать",
+      "translate": "suggest"
+    },
+    {
+      "word": "кеңес беру, советовать",
+      "translate": "advise"
+    }
+  ],
+  [
+    {
+      "word": "сәйкес келу, соответствовать",
+      "translate": "conform"
+    },
+    {
+      "word": "Тілеу, тілек, Желать, желание",
+      "translate": "Wish"
+    },
+    {
+      "word": "жіберу, отправить",
+      "translate": "submit"
+    },
+    {
+      "word": "ұрлау, похищать",
+      "translate": "kidnap"
+    },
+    {
+      "word": "мойындамау, отрицать",
+      "translate": "deny"
+    },
+    {
+      "word": "бас тарту, отказать",
+      "translate": "refuse"
+    },
+    {
+      "word": "қарау, смотреть на",
+      "translate": "look at"
+    },
+    {
+      "word": "өлу, умереть",
+      "translate": "die"
+    },
+    {
+      "word": "азайту, уменьшить",
+      "translate": "reduce"
+    },
+    {
+      "word": "ескерту, предупреждать",
+      "translate": "warn"
+    },
+    {
+      "word": "сүрту, протирать",
+      "translate": "wipe"
+    },
+    {
+      "word": "алаңдаушылық, беспокойства",
+      "translate": "warry"
+    },
+    {
+      "word": "қорғау, защищать",
+      "translate": "protect"
+    },
+    {
+      "word": "тапсыру, сдавать",
+      "translate": "pass"
+    },
+    {
+      "word": "түсіндіру, объяснить",
+      "translate": "explain"
+    },
+    {
+      "word": "ұқсау, выглядеть как",
+      "translate": "look like"
+    },
+    {
+      "word": "мағынасын білу, означать",
+      "translate": "mean"
+    },
+    {
+      "word": "ұсыну, рекомендовать",
+      "translate": "recommend"
+    },
+    {
+      "word": "қабылдау, получать",
+      "translate": "receive"
+    },
+    {
+      "word": "аңырау, рыдать",
+      "translate": "sob"
+    },
+    {
+      "word": "қорлау, позорить",
+      "translate": "dishonor"
+    },
+    {
+      "word": "қосу, добавлять",
+      "translate": "Add"
+    },
+    {
+      "word": "кешірім сұрау, просить прощения",
+      "translate": "apologize"
+    },
+    {
+      "word": "мазақ ету, издеваться над",
+      "translate": "mock at"
+    },
+    {
+      "word": "тағайындау, назначить",
+      "translate": "nominate"
+    },
+    {
+      "word": "келісу, согласиться",
+      "translate": "agree"
+    },
+    {
+      "word": "бағыну, подчиниться",
+      "translate": "obey"
+    },
+    {
+      "word": "келіспеу, не соглашаться",
+      "translate": "disagree"
+    },
+    {
+      "word": "түсіріп алу, уронить",
+      "translate": "drop"
+    },
+    {
+      "word": "тиесілі, принадлежать",
+      "translate": "belong to"
+    },
+    {
+      "word": "болжау, предсказывать",
+      "translate": "predict"
+    },
+    {
+      "word": "айыптау, обвинять",
+      "translate": "blame"
+    },
+    {
+      "word": "еліктеу, подражать",
+      "translate": "imitate"
+    },
+    {
+      "word": "таңдау, выбрать",
+      "translate": "select"
+    },
+    {
+      "word": "ала кету, забрать",
+      "translate": "take away"
+    },
+    {
+      "word": "емдеу, лечить",
+      "translate": "treat"
+    },
+    {
+      "word": "жіберу, отправить",
+      "translate": "direct"
+    },
+    {
+      "word": "ұру, соғу, удар, бить",
+      "translate": "Hit"
+    },
+    {
+      "word": "рақсат беру, разрешать",
+      "translate": "Give permission"
+    },
+    {
+      "word": "зарядтау, заряжать",
+      "translate": "charge"
+    }
+  ],
+  [
+    {
+      "word": "мойындау, признаться",
+      "translate": "confess"
+    },
+    {
+      "word": "жауап беру, отвечать",
+      "translate": "reply"
+    },
+    {
+      "word": "демалу, отдыхать",
+      "translate": "relax"
+    },
+    {
+      "word": "қорлау, унижать",
+      "translate": "humiliate"
+    },
+    {
+      "word": "қабылдау, принимать",
+      "translate": "accept"
+    },
+    {
+      "word": "лайық болу, заслуживать",
+      "translate": "deserve"
+    },
+    {
+      "word": "көңіл көтеру, развлекаться",
+      "translate": "entertain"
+    },
+    {
+      "word": "әсер ету, влиять",
+      "translate": "affect"
+    },
+    {
+      "word": "құлшылық жасау, молиться",
+      "translate": "pray"
+    },
+    {
+      "word": "мақұлдау, одобрить",
+      "translate": "approve"
+    },
+    {
+      "word": "жақсарту, улучшать",
+      "translate": "improve"
+    },
+    {
+      "word": "тәрбиелеу, воспитать",
+      "translate": "bring up"
+    },
+    {
+      "word": "жайырақ, медленно",
+      "translate": "slowly"
+    },
+    {
+      "word": "жылдам, быстро",
+      "translate": "fast"
+    },
+    {
+      "word": "тамақтандыру, кормить",
+      "translate": "nourish"
+    },
+    {
+      "word": "талқылау, обсуждать",
+      "translate": "discuss"
+    },
+    {
+      "word": "еркелету, баловать",
+      "translate": "spoil"
+    },
+    {
+      "word": "бақыт, счастье",
+      "translate": "happiness"
+    },
+    {
+      "word": "мақсат, цель",
+      "translate": "purpose"
+    },
+    {
+      "word": "жалыну, умолять",
+      "translate": "implore"
+    },
+    {
+      "word": "қиын, трудно, сложный",
+      "translate": "difficult"
+    },
+    {
+      "word": "шағымдану, жаловаться",
+      "translate": "complain"
+    },
+    {
+      "word": "уәде беру, обещать",
+      "translate": "promise"
+    },
+    {
+      "word": "маңызды, важный",
+      "translate": "important"
+    },
+    {
+      "word": "ымдау, намекать",
+      "translate": "hint"
+    },
+    {
+      "word": "көңілін қалдыру, разочаровывать",
+      "translate": "disappoint"
+    },
+    {
+      "word": "оқасы жоқ, не за что",
+      "translate": "never mind"
+    },
+    {
+      "word": "жіберу, отравить",
+      "translate": "send"
+    },
+    {
+      "word": "орналасқан, расположенный",
+      "translate": "situated"
+    },
+    {
+      "word": "пайдалы, полезный",
+      "translate": "useful"
+    },
+    {
+      "word": "қылмыс, преступления",
+      "translate": "crime"
+    },
+    {
+      "word": "аш, голодный",
+      "translate": "hungry"
+    },
+    {
+      "word": "күлу, смеяться",
+      "translate": "laugh"
+    },
+    {
+      "word": "қуыру, жарить",
+      "translate": "fry"
+    },
+    {
+      "word": "қабылдамау, отклонять",
+      "translate": "reject"
+    },
+    {
+      "word": "берілу, сдаваться",
+      "translate": "give up"
+    },
+    {
+      "word": "пайдалы, полезный",
+      "translate": "beneficial"
+    },
+    {
+      "word": "қамқорлық ету, заботиться о",
+      "translate": "take care of"
+    },
+    {
+      "word": "өткізу, жарату, проводить, тратить",
+      "translate": "spend"
+    },
+    {
+      "word": "көру, қол сағат, смотреть, часы",
+      "translate": "watch"
+    }
+  ],
+  [
+    {
+      "word": "болу",
+      "translate": "be, was\/were, been"
+    },
+    {
+      "word": "ұру",
+      "translate": "beat, beat, beaten"
+    },
+    {
+      "word": "бастау",
+      "translate": "begin, began, begun"
+    },
+    {
+      "word": "сындыру",
+      "translate": "break, broke, broken"
+    },
+    {
+      "word": "әкелу",
+      "translate": "bring, brought, brought"
+    },
+    {
+      "word": "соғу",
+      "translate": "build, built, built"
+    },
+    {
+      "word": "сатып алу",
+      "translate": "buy, bought, bought"
+    },
+    {
+      "word": "ұстау",
+      "translate": "catch, caught, caught"
+    },
+    {
+      "word": "таңдау",
+      "translate": "choose, chose, chosen"
+    },
+    {
+      "word": "келу",
+      "translate": "come, came, come"
+    },
+    {
+      "word": "серпіліс",
+      "translate": "creep, crept, crept"
+    },
+    {
+      "word": "кесу",
+      "translate": "cut, cut, cut"
+    },
+    {
+      "word": "істеу",
+      "translate": "do, did, done"
+    },
+    {
+      "word": "ішу",
+      "translate": "drink, drank, drunk"
+    },
+    {
+      "word": "сызу",
+      "translate": "draw, drew, drawn"
+    },
+    {
+      "word": "армандау",
+      "translate": "dream, dreamt, dreamt"
+    },
+    {
+      "word": "айдау",
+      "translate": "drive, drove, driven"
+    },
+    {
+      "word": "қазу",
+      "translate": "dig, dug, dug"
+    },
+    {
+      "word": "жеу",
+      "translate": "eat, ate, eaten"
+    },
+    {
+      "word": "құлау",
+      "translate": "fall, fell, fallen"
+    },
+    {
+      "word": "сезу",
+      "translate": "feel, felt, felt"
+    },
+    {
+      "word": "табу",
+      "translate": "find, found, found"
+    },
+    {
+      "word": "ұшу",
+      "translate": "fly, flew, flown"
+    },
+    {
+      "word": "ұмыту",
+      "translate": "forget, forgot, forgotten"
+    },
+    {
+      "word": "кешіру",
+      "translate": "forgive, forgave, forgiven"
+    },
+    {
+      "word": "мұздату",
+      "translate": "freeze, froze, frozen"
+    },
+    {
+      "word": "төбелесу",
+      "translate": "fight, fought, fought"
+    },
+    {
+      "word": "тыйым салу",
+      "translate": "forbid, forbade, forbidden"
+    },
+    {
+      "word": "алу",
+      "translate": "get, got, got"
+    },
+    {
+      "word": "беру",
+      "translate": "give, gave, given"
+    },
+    {
+      "word": "бару",
+      "translate": "go, went, gone"
+    },
+    {
+      "word": "өсу",
+      "translate": "grow, grew, grown"
+    },
+    {
+      "word": "бар болу",
+      "translate": "have, had, had"
+    },
+    {
+      "word": "ілу",
+      "translate": "hang, hung, hung"
+    },
+    {
+      "word": "тыңдау",
+      "translate": "hear, heard, heard"
+    },
+    {
+      "word": "тығу",
+      "translate": "hide, hid, hidden"
+    },
+    {
+      "word": "ұру, соғу",
+      "translate": "hit, hit, hit"
+    },
+    {
+      "word": "ауырту",
+      "translate": "hurt, hurt, hurt"
+    },
+    {
+      "word": "ұстау",
+      "translate": "hold, held, held"
+    },
+    {
+      "word": "көрсету",
+      "translate": "show, showed, shown"
+    }
+  ],
+  [
+    {
+      "word": "ұстау",
+      "translate": "keep, kept, kept"
+    },
+    {
+      "word": "білу",
+      "translate": "know, knew, known"
+    },
+    {
+      "word": "үйрену",
+      "translate": "learn, learnt, learnt"
+    },
+    {
+      "word": "тастап кету",
+      "translate": "leave, left, left"
+    },
+    {
+      "word": "рұқсат ету",
+      "translate": "let, let, let"
+    },
+    {
+      "word": "жату",
+      "translate": "lie, lay, lain"
+    },
+    {
+      "word": "басшылық ету",
+      "translate": "lead, led, led"
+    },
+    {
+      "word": "жоғалту",
+      "translate": "lose, lost, lost"
+    },
+    {
+      "word": "қарыз беру",
+      "translate": "lend, lent, lent"
+    },
+    {
+      "word": "істеу",
+      "translate": "make, made, made"
+    },
+    {
+      "word": "кездесу",
+      "translate": "meet, met, met"
+    },
+    {
+      "word": "мағынасын білу",
+      "translate": "mean, meant, meant"
+    },
+    {
+      "word": "қателесу",
+      "translate": "mistake, mistook, mistaken"
+    },
+    {
+      "word": "төлеу",
+      "translate": "pay, paid, paid"
+    },
+    {
+      "word": "қою",
+      "translate": "put, put, put"
+    },
+    {
+      "word": "оқу",
+      "translate": "read, read, read"
+    },
+    {
+      "word": "қоңырау соғу",
+      "translate": "ring, rang, rung"
+    },
+    {
+      "word": "жоғарылау",
+      "translate": "rise, rose, risen"
+    },
+    {
+      "word": "жүгіру",
+      "translate": "run, ran, run"
+    },
+    {
+      "word": "көру",
+      "translate": "see, saw, seen"
+    },
+    {
+      "word": "іздеу",
+      "translate": "seek, sought, sought"
+    },
+    {
+      "word": "сату",
+      "translate": "sell, sold, sold"
+    },
+    {
+      "word": "жіберу",
+      "translate": "send, sent, sent"
+    },
+    {
+      "word": "отыру",
+      "translate": "sit, sat, sat"
+    },
+    {
+      "word": "ән айту",
+      "translate": "sing, sang, sung"
+    },
+    {
+      "word": "ұйықтау",
+      "translate": "sleep, slept, slept"
+    },
+    {
+      "word": "сөйлесу",
+      "translate": "speak, spoke, spoken"
+    },
+    {
+      "word": "тұру",
+      "translate": "stand, stood, stood"
+    },
+    {
+      "word": "ұрлау",
+      "translate": "steal, stole, stolen"
+    },
+    {
+      "word": "жүзу",
+      "translate": "swim, swam, swum"
+    },
+    {
+      "word": "алу",
+      "translate": "take, took, taken"
+    },
+    {
+      "word": "үйрету",
+      "translate": "teach, tought, tought"
+    },
+    {
+      "word": "айту",
+      "translate": "say, said, said"
+    },
+    {
+      "word": "ойлау",
+      "translate": "think, thought, thought"
+    },
+    {
+      "word": "лақтыру",
+      "translate": "throw, threw, thrown"
+    },
+    {
+      "word": "айту",
+      "translate": "tell, told, told"
+    },
+    {
+      "word": "түсіну",
+      "translate": "understand, understood, understood"
+    },
+    {
+      "word": "ояну",
+      "translate": "wake, woke, woken"
+    },
+    {
+      "word": "жазу",
+      "translate": "write, wrote, written"
+    },
+    {
+      "word": "кию",
+      "translate": "wear, wore, worn"
+    }
+  ],
+  [
+    {
+      "word": "папа, әке",
+      "translate": "father"
+    },
+    {
+      "word": "мама, ана",
+      "translate": "mother"
+    },
+    {
+      "word": "брат, аға",
+      "translate": "brother"
+    },
+    {
+      "word": "сестра, әпке",
+      "translate": "sister"
+    },
+    {
+      "word": "сын, бала",
+      "translate": "son"
+    },
+    {
+      "word": "дочь, қыз",
+      "translate": "daughter"
+    },
+    {
+      "word": "внук, немере ұл",
+      "translate": "grandson"
+    },
+    {
+      "word": "внучка, немере қыз",
+      "translate": "granddaughter"
+    },
+    {
+      "word": "внук, немере",
+      "translate": "grandchild"
+    },
+    {
+      "word": "дядя, нағашы аға",
+      "translate": "uncle"
+    },
+    {
+      "word": "тетя, нағашы әпке",
+      "translate": "aunt"
+    },
+    {
+      "word": "племянница, жиен қыз",
+      "translate": "niece"
+    },
+    {
+      "word": "племянник, жиен бала",
+      "translate": "nephew"
+    },
+    {
+      "word": "кузина\\кузен, нағашы",
+      "translate": "cousin"
+    },
+    {
+      "word": "муж, күйеу",
+      "translate": "husband"
+    },
+    {
+      "word": "жена, әйелі",
+      "translate": "wife"
+    },
+    {
+      "word": "домохозяйка, үй бике",
+      "translate": "housewife"
+    },
+    {
+      "word": "мачеха, өгей ана",
+      "translate": "stepmother"
+    },
+    {
+      "word": "человек, адам",
+      "translate": "person"
+    },
+    {
+      "word": "папа, әке",
+      "translate": "dad"
+    },
+    {
+      "word": "старшая, үлкен",
+      "translate": "older"
+    },
+    {
+      "word": "маленький, малый, кіші",
+      "translate": "little"
+    },
+    {
+      "word": "ребенок, балапан",
+      "translate": "child"
+    },
+    {
+      "word": "малыш, бөпе",
+      "translate": "baby"
+    },
+    {
+      "word": "супруг, қалындық",
+      "translate": "spouse"
+    },
+    {
+      "word": "тесть свекор, қайната",
+      "translate": "father-in-low"
+    },
+    {
+      "word": "тёща свекровь, қайнене",
+      "translate": "mother-in-low"
+    },
+    {
+      "word": "семья, жанұя",
+      "translate": "family"
+    },
+    {
+      "word": "мальчик, бала",
+      "translate": "boy"
+    },
+    {
+      "word": "девушка, қыз",
+      "translate": "girl"
+    },
+    {
+      "word": "родители, ата ана",
+      "translate": "parents"
+    },
+    {
+      "word": "сосед, көрші",
+      "translate": "neighbor"
+    },
+    {
+      "word": "знакомый, таныс",
+      "translate": "familiar"
+    },
+    {
+      "word": "родственники, туысқандар",
+      "translate": "relatives"
+    },
+    {
+      "word": "гость, қонақ",
+      "translate": "guest"
+    },
+    {
+      "word": "жених, күйеу жігіт",
+      "translate": "groom"
+    },
+    {
+      "word": "бывший, бұрынғы",
+      "translate": "ex"
+    },
+    {
+      "word": "маленький брат, кіші іні",
+      "translate": "little brother"
+    },
+    {
+      "word": "одиноко, одинокий, жалғыз",
+      "translate": "alone"
+    },
+    {
+      "word": "отношение, туыстық қатынас",
+      "translate": "relationship"
+    }
+  ],
+  [
+    {
+      "word": "қажет, необходимо",
+      "translate": "necessary"
+    },
+    {
+      "word": "арқылы, через, сквозь",
+      "translate": "across"
+    },
+    {
+      "word": "жалғыз, одинокий",
+      "translate": "alone"
+    },
+    {
+      "word": "тыс, вне",
+      "translate": "out of"
+    },
+    {
+      "word": "әңгіме, разговор",
+      "translate": "conversation"
+    },
+    {
+      "word": "үйсіз, бездомный",
+      "translate": "homeless"
+    },
+    {
+      "word": "содан бері, с тех пор",
+      "translate": "since"
+    },
+    {
+      "word": "дұрыс, правильно",
+      "translate": "correct"
+    },
+    {
+      "word": "мансап, карьера",
+      "translate": "career"
+    },
+    {
+      "word": "жалақы, зарплата",
+      "translate": "salary"
+    },
+    {
+      "word": "жұмыссыздық, безработица",
+      "translate": "unemployment"
+    },
+    {
+      "word": "тәжірибе, эксперимент",
+      "translate": "experience"
+    },
+    {
+      "word": "бұл туралы, как насчет",
+      "translate": "what about?"
+    },
+    {
+      "word": "бос, пустой",
+      "translate": "empty"
+    },
+    {
+      "word": "дөрекі, грубый",
+      "translate": "coarse"
+    },
+    {
+      "word": "лас, грязный",
+      "translate": "dirty"
+    },
+    {
+      "word": "ерте, ертерек, рано",
+      "translate": "early"
+    },
+    {
+      "word": "сатқындық ету, предать",
+      "translate": "betray"
+    },
+    {
+      "word": "тузету, исправить",
+      "translate": "fix"
+    },
+    {
+      "word": "Коньки тебу, Кататься на каньках",
+      "translate": "Skating"
+    },
+    {
+      "word": "тұтыну, потребить",
+      "translate": "consume"
+    },
+    {
+      "word": "мазалау, беспокоить",
+      "translate": "disturb"
+    },
+    {
+      "word": "қуат, мощь",
+      "translate": "power"
+    },
+    {
+      "word": "шағылдыру, отражать",
+      "translate": "reflect"
+    },
+    {
+      "word": "қатыгездік, жестокость",
+      "translate": "brutal"
+    },
+    {
+      "word": "Қорқыныш, Страх",
+      "translate": "Fear"
+    },
+    {
+      "word": "тігу, шить",
+      "translate": "sew"
+    },
+    {
+      "word": "қолдау, поддерживать",
+      "translate": "support"
+    },
+    {
+      "word": "Сыпыру, Подметать",
+      "translate": "Sweep"
+    },
+    {
+      "word": "жағдайда, в случае",
+      "translate": "in case of"
+    },
+    {
+      "word": "анықтау, выяснить",
+      "translate": "clear up"
+    },
+    {
+      "word": "қорлау, оскорблять, обижать",
+      "translate": "insult"
+    },
+    {
+      "word": "басқару, руководить",
+      "translate": "manage control"
+    },
+    {
+      "word": "тарту, привлекать",
+      "translate": "attract"
+    },
+    {
+      "word": "өшіру, выключать",
+      "translate": "turn off"
+    },
+    {
+      "word": "іздеу, искать",
+      "translate": "look for"
+    },
+    {
+      "word": "жек көру, ненавидеть",
+      "translate": "detest"
+    },
+    {
+      "word": "қайталау, повторить",
+      "translate": "repeat"
+    },
+    {
+      "word": "ұсқынсыз, уродливый",
+      "translate": "freak"
+    },
+    {
+      "word": "қараусыз қалған, заброшенный",
+      "translate": "desolate"
+    }
+  ],
+  [
+    {
+      "word": "тырысу, әрекет ету, стараться, пытаться",
+      "translate": "try"
+    },
+    {
+      "word": "жек көру, ненавидеть",
+      "translate": "hate"
+    },
+    {
+      "word": "мұқтаж болу, нуждаться",
+      "translate": "need"
+    },
+    {
+      "word": "күту, ждать",
+      "translate": "wait"
+    },
+    {
+      "word": "шынында, действительно",
+      "translate": "really"
+    },
+    {
+      "word": "ерекше, особый",
+      "translate": "particular"
+    },
+    {
+      "word": "жақсырақ, лучше",
+      "translate": "better"
+    },
+    {
+      "word": "басқа, другой",
+      "translate": "other"
+    },
+    {
+      "word": "білім, образование",
+      "translate": "education"
+    },
+    {
+      "word": "аяқтау, закончить",
+      "translate": "complete"
+    },
+    {
+      "word": "сөйлем\/үкім, предложения\/приговор",
+      "translate": "sentence"
+    },
+    {
+      "word": "жаза, наказание",
+      "translate": "punishment"
+    },
+    {
+      "word": "нәтиже, результат",
+      "translate": "result"
+    },
+    {
+      "word": "бойдақ, жалғыз, холостяк, один",
+      "translate": "single"
+    },
+    {
+      "word": "жекеменшік мектеп, частная школа",
+      "translate": "private school"
+    },
+    {
+      "word": "мемлекеттік мектеп, государственная школа",
+      "translate": "state school"
+    },
+    {
+      "word": "дұрыс, правильно",
+      "translate": "true"
+    },
+    {
+      "word": "жалпы, общий",
+      "translate": "common"
+    },
+    {
+      "word": "тыйым салу, запрещать",
+      "translate": "ban"
+    },
+    {
+      "word": "көшу, переехать",
+      "translate": "move"
+    },
+    {
+      "word": "мінез-құлық, поведение",
+      "translate": "behavior"
+    },
+    {
+      "word": "алдында, перед",
+      "translate": "in front of"
+    },
+    {
+      "word": "бірінші, первый",
+      "translate": "first"
+    },
+    {
+      "word": "екінші, второй",
+      "translate": "second"
+    },
+    {
+      "word": "үшінші, третий",
+      "translate": "third"
+    },
+    {
+      "word": "мүмкіндік, возможность",
+      "translate": "chance"
+    },
+    {
+      "word": "күтіп тұру, ждать с нетерпением",
+      "translate": "looking forward"
+    },
+    {
+      "word": "кию, носить, одевать",
+      "translate": "wear"
+    },
+    {
+      "word": "толық, түгел, полностью",
+      "translate": "completely"
+    },
+    {
+      "word": "қайырымдылық, благотворительность",
+      "translate": "charity"
+    },
+    {
+      "word": "әрекет, действие",
+      "translate": "action"
+    },
+    {
+      "word": "күлкілі, смешной",
+      "translate": "funny"
+    },
+    {
+      "word": "бару, келу, побывать, посещать",
+      "translate": "visit"
+    },
+    {
+      "word": "икемді, гибкий",
+      "translate": "flexible"
+    },
+    {
+      "word": "қорқу, бояться",
+      "translate": "afraid of"
+    },
+    {
+      "word": "аралас, смешанный",
+      "translate": "mixed"
+    },
+    {
+      "word": "дін, религия",
+      "translate": "religion"
+    },
+    {
+      "word": "шынында, на самом деле",
+      "translate": "actually"
+    },
+    {
+      "word": "кішіпейіл, скромный",
+      "translate": "humble"
+    },
+    {
+      "word": "болжау, предвидеть",
+      "translate": "anticipate"
+    }
+  ],
+  [
+    {
+      "word": "сиыр, корова",
+      "translate": "a cow"
+    },
+    {
+      "word": "жылқы, лошадь",
+      "translate": "a horse"
+    },
+    {
+      "word": "жылан, змея",
+      "translate": "a snake"
+    },
+    {
+      "word": "тышқан, мышь",
+      "translate": "a mouse"
+    },
+    {
+      "word": "балық, рыба",
+      "translate": "a fish"
+    },
+    {
+      "word": "ешкі, коза",
+      "translate": "a goat"
+    },
+    {
+      "word": "түйе, верблюд",
+      "translate": "a camel"
+    },
+    {
+      "word": "тауық, курица",
+      "translate": "a chicken"
+    },
+    {
+      "word": "қолтырауын, крокодил",
+      "translate": "a crocodile"
+    },
+    {
+      "word": "құс, птица",
+      "translate": "a bird"
+    },
+    {
+      "word": "үйрек, утка",
+      "translate": "a duck"
+    },
+    {
+      "word": "піл, слон",
+      "translate": "an elephant"
+    },
+    {
+      "word": "түлкі, лис",
+      "translate": "a fox"
+    },
+    {
+      "word": "мысық баласы, котенок",
+      "translate": "a kitten"
+    },
+    {
+      "word": "арыстан, лев",
+      "translate": "a lion"
+    },
+    {
+      "word": "маймыл, обезьяна",
+      "translate": "a monkey"
+    },
+    {
+      "word": "шошқа, свинья",
+      "translate": "a pig"
+    },
+    {
+      "word": "қоян, заяц",
+      "translate": "a rabbit"
+    },
+    {
+      "word": "егеуқұйрық, крыса",
+      "translate": "a rat"
+    },
+    {
+      "word": "саршаян, скорпион",
+      "translate": "a scorpion"
+    },
+    {
+      "word": "акула, акула",
+      "translate": "a shark"
+    },
+    {
+      "word": "қой, овца",
+      "translate": "a sheep"
+    },
+    {
+      "word": "өрмекші, паук",
+      "translate": "a spider"
+    },
+    {
+      "word": "жолбарыс, тиг",
+      "translate": "a tiger"
+    },
+    {
+      "word": "қасқыр, волк",
+      "translate": "a wolf"
+    },
+    {
+      "word": "бүркіт, орел",
+      "translate": "an eagle"
+    },
+    {
+      "word": "шыбын, муха",
+      "translate": "a fly"
+    },
+    {
+      "word": "бақа, лягушка",
+      "translate": "a frog"
+    },
+    {
+      "word": "аю, медведь",
+      "translate": "a bear"
+    },
+    {
+      "word": "тау, гора",
+      "translate": "mountain"
+    },
+    {
+      "word": "ағаш, дерево",
+      "translate": "tree"
+    },
+    {
+      "word": "тиімді, эффектті, эффективное",
+      "translate": "eff icient"
+    },
+    {
+      "word": "саңырауқұлақ, гриб",
+      "translate": "mushroom"
+    },
+    {
+      "word": "жаңбыр, дождь",
+      "translate": "rain"
+    },
+    {
+      "word": "қар, снег",
+      "translate": "snow"
+    },
+    {
+      "word": "бақ, сад",
+      "translate": "garden"
+    },
+    {
+      "word": "бұлт, облока",
+      "translate": "cloud"
+    },
+    {
+      "word": "үй, дом",
+      "translate": "house"
+    },
+    {
+      "word": "үй жануарлары, домашние животные",
+      "translate": "a pet"
+    },
+    {
+      "word": "салқын, прохладно",
+      "translate": "cool"
+    }
+  ],
+  [
+    {
+      "word": "әрқашан, всегда",
+      "translate": "Always"
+    },
+    {
+      "word": "жиі, часто",
+      "translate": "often"
+    },
+    {
+      "word": "кейде, иногда",
+      "translate": "sometimes"
+    },
+    {
+      "word": "әдетте, обычно",
+      "translate": "usually"
+    },
+    {
+      "word": "ешқашан, никогда",
+      "translate": "never"
+    },
+    {
+      "word": "дейін, до, перед",
+      "translate": "before"
+    },
+    {
+      "word": "кейін, после",
+      "translate": "after"
+    },
+    {
+      "word": "әр күн,апта,ай,жыл, каждый день,неделя,месяц,год",
+      "translate": "every d\/w\/m\/y"
+    },
+    {
+      "word": "осы уақытта, в этот момент",
+      "translate": "at this moment"
+    },
+    {
+      "word": "бүгінгі күнде, в наши дни",
+      "translate": "nowadays"
+    },
+    {
+      "word": "бір рет, один раз",
+      "translate": "once"
+    },
+    {
+      "word": "екі рет, два раза",
+      "translate": "twice"
+    },
+    {
+      "word": "қазір, сейчас",
+      "translate": "now"
+    },
+    {
+      "word": "тек, только",
+      "translate": "only"
+    },
+    {
+      "word": "қайтадан, опять",
+      "translate": "again"
+    },
+    {
+      "word": "мерзімінен тыс уақыт, сверхурочный",
+      "translate": "overtime"
+    },
+    {
+      "word": "солардың бірі, один из них",
+      "translate": "one of the"
+    },
+    {
+      "word": "олардың барлығы, все они",
+      "translate": "all of them"
+    },
+    {
+      "word": "бүкіл әлемде, по всему миру",
+      "translate": "all over the world"
+    },
+    {
+      "word": "көпшілігі, большинство",
+      "translate": "most of"
+    },
+    {
+      "word": "осындай, такой",
+      "translate": "such"
+    },
+    {
+      "word": "өткен, прошлое",
+      "translate": "past"
+    },
+    {
+      "word": "келер, будущий",
+      "translate": "future"
+    },
+    {
+      "word": "матч, матч",
+      "translate": "match"
+    },
+    {
+      "word": "жақынырақ, близко",
+      "translate": "nearly"
+    },
+    {
+      "word": "екеуі де, и то и другое",
+      "translate": "both"
+    },
+    {
+      "word": "мысал, пример",
+      "translate": "example"
+    },
+    {
+      "word": "жарыс, соревнование",
+      "translate": "competition"
+    },
+    {
+      "word": "ине, иголка",
+      "translate": "needle"
+    },
+    {
+      "word": "атақты, белгілі, знаменитый, известный",
+      "translate": "notable"
+    },
+    {
+      "word": "шыдамсыз, нетерпеливый",
+      "translate": "eager"
+    },
+    {
+      "word": "саяхат, поездка, путешествие",
+      "translate": "trip"
+    },
+    {
+      "word": "мүмкіндік, возможность",
+      "translate": "possibility"
+    },
+    {
+      "word": "үмітсіз, пайдасыз, безнадежный",
+      "translate": "hopeless"
+    },
+    {
+      "word": "мылтық, қару, оружие",
+      "translate": "gun"
+    },
+    {
+      "word": "бөлшек, деталь",
+      "translate": "detail"
+    },
+    {
+      "word": "бас ауруы, головная боль",
+      "translate": "headache"
+    },
+    {
+      "word": "маңызды емес, это не важно",
+      "translate": "it doesn’t matter"
+    },
+    {
+      "word": "әсіресе, особенно",
+      "translate": "especially"
+    },
+    {
+      "word": "дөрекі, грубый",
+      "translate": "rude"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "word": "батыл, ержүрек, отважно, храбрый",
+      "translate": "bravely"
+    },
+    {
+      "word": "аялдама, остановка",
+      "translate": "bus station"
+    },
+    {
+      "word": "қуатты, мощный",
+      "translate": "powerful"
+    },
+    {
+      "word": "ересек, взрослый",
+      "translate": "adult"
+    },
+    {
+      "word": "еден, этаж, пол",
+      "translate": "floor"
+    },
+    {
+      "word": "сыйлық, подарок",
+      "translate": "gift"
+    },
+    {
+      "word": "шөп, трава",
+      "translate": "grass"
+    },
+    {
+      "word": "қайнату, варить",
+      "translate": "boil"
+    },
+    {
+      "word": "бөлу, делить",
+      "translate": "share"
+    },
+    {
+      "word": "көпшілік, большинство",
+      "translate": "majority"
+    },
+    {
+      "word": "байланысты, зависеть",
+      "translate": "depend"
+    },
+    {
+      "word": "қамту, включать",
+      "translate": "include"
+    },
+    {
+      "word": "дәлелдеу, доказать",
+      "translate": "prove"
+    },
+    {
+      "word": "арасында, между",
+      "translate": "between"
+    },
+    {
+      "word": "жеңімпаз, победитель",
+      "translate": "winner"
+    },
+    {
+      "word": "әдемі, привлекательный",
+      "translate": "pretty"
+    },
+    {
+      "word": "қауіпті, опасный",
+      "translate": "danger"
+    },
+    {
+      "word": "күдіктену, подозревать",
+      "translate": "suspect"
+    },
+    {
+      "word": "үкімет, государство",
+      "translate": "government"
+    },
+    {
+      "word": "айыптау, обвинять",
+      "translate": "accuse"
+    },
+    {
+      "word": "өкіну, сожалеть",
+      "translate": "regret"
+    },
+    {
+      "word": "жазалау, наказывать",
+      "translate": "punish"
+    },
+    {
+      "word": "еске түсіру, напоминать",
+      "translate": "remind"
+    },
+    {
+      "word": "демалыс, отпуск",
+      "translate": "vacation"
+    },
+    {
+      "word": "шақыру, приглашать",
+      "translate": "invite"
+    },
+    {
+      "word": "әрекет жасау, пытаться",
+      "translate": "attempt"
+    },
+    {
+      "word": "қарсы болу, объект, возражать, объект",
+      "translate": "object"
+    },
+    {
+      "word": "ауыстыру, перемещать",
+      "translate": "transfer"
+    },
+    {
+      "word": "қадалу, глазеть",
+      "translate": "stare"
+    },
+    {
+      "word": "бөліну, раздел",
+      "translate": "separate"
+    },
+    {
+      "word": "азап шегу, страдать",
+      "translate": "suffer"
+    },
+    {
+      "word": "бөлу, делить",
+      "translate": "divide"
+    },
+    {
+      "word": "аяқтау, заканчивать",
+      "translate": "finish"
+    },
+    {
+      "word": "құттықтау, поздравлять",
+      "translate": "congratulate"
+    },
+    {
+      "word": "шебер, епті, умелый, ловкий",
+      "translate": "skillful"
+    },
+    {
+      "word": "санау, считать",
+      "translate": "count"
+    },
+    {
+      "word": "қызмет көрсету, обслуживать",
+      "translate": "service"
+    },
+    {
+      "word": "Ұру, соққы, бить кулаком, удар",
+      "translate": "punch"
+    },
+    {
+      "word": "рұқсат беру, допускать",
+      "translate": "admit"
+    },
+    {
+      "word": "мәселе, проблема",
+      "translate": "issue"
+    }
+  ],
+  [
+    {
+      "word": "көбейту, өсіру, увеличить",
+      "translate": "increase"
+    },
+    {
+      "word": "барлық уақытта, все время",
+      "translate": "all the time"
+    },
+    {
+      "word": "түрме, тюрьма",
+      "translate": "prison"
+    },
+    {
+      "word": "жалғастыру, продолжать",
+      "translate": "keep on"
+    },
+    {
+      "word": "дайындау, әзірлеу, подготовить",
+      "translate": "prepare"
+    },
+    {
+      "word": "қабылдау, прием",
+      "translate": "reception"
+    },
+    {
+      "word": "сыйлық, награда",
+      "translate": "reward"
+    },
+    {
+      "word": "үйлену торты, свадебный торт",
+      "translate": "wedding cake"
+    },
+    {
+      "word": "соған қарамастан, несмотря на",
+      "translate": "despite it"
+    },
+    {
+      "word": "есептеу, вычислять",
+      "translate": "calculate"
+    },
+    {
+      "word": "қорытынды, заключения",
+      "translate": "conclusion"
+    },
+    {
+      "word": "ұят, масқара, позор",
+      "translate": "shame"
+    },
+    {
+      "word": "күлімсіреу, улыбка",
+      "translate": "smile"
+    },
+    {
+      "word": "шешу, решать",
+      "translate": "solve"
+    },
+    {
+      "word": "сену, доверять",
+      "translate": "trust"
+    },
+    {
+      "word": "ақылға сыймайтын, невероятный",
+      "translate": "incredible"
+    },
+    {
+      "word": "жергілікті, местный",
+      "translate": "local"
+    },
+    {
+      "word": "қоқыс, мусор",
+      "translate": "rubbish"
+    },
+    {
+      "word": "құтқару, сақтау, спасать, сохранить",
+      "translate": "save"
+    },
+    {
+      "word": "іздеу, искать",
+      "translate": "search"
+    },
+    {
+      "word": "тіркеу, регистрировать",
+      "translate": "check-in"
+    },
+    {
+      "word": "қақпа, ворота",
+      "translate": "gate"
+    },
+    {
+      "word": "қызық, странный",
+      "translate": "weird"
+    },
+    {
+      "word": "ашу, табу, открывать",
+      "translate": "discover"
+    },
+    {
+      "word": "меншікті, өзінікі, собственный",
+      "translate": "own"
+    },
+    {
+      "word": "сәнді, модный",
+      "translate": "fashionable"
+    },
+    {
+      "word": "досшыл, дружелюбный",
+      "translate": "friendly"
+    },
+    {
+      "word": "сау, здоровый",
+      "translate": "healthy"
+    },
+    {
+      "word": "өмір салты, стиль жизни",
+      "translate": "lifestyle"
+    },
+    {
+      "word": "әр түрлі, разнообразный",
+      "translate": "variety"
+    },
+    {
+      "word": "ақша табу, зарабатывать",
+      "translate": "earn"
+    },
+    {
+      "word": "адал, честный",
+      "translate": "honest"
+    },
+    {
+      "word": "тәуелсіз, независимый",
+      "translate": "independ"
+    },
+    {
+      "word": "сезімтал, чувствительный",
+      "translate": "sensitive"
+    },
+    {
+      "word": "ашулы, сердитый",
+      "translate": "angry"
+    },
+    {
+      "word": "күш, энергия, энергия",
+      "translate": "energy"
+    },
+    {
+      "word": "таза, чистый",
+      "translate": "clean"
+    },
+    {
+      "word": "сыртқы түрі, внешность",
+      "translate": "appearance"
+    },
+    {
+      "word": "айқын, определенно",
+      "translate": "definitely"
+    },
+    {
+      "word": "қарсылас, противник",
+      "translate": "opponent"
+    }
+  ],
+  [
+    {
+      "word": "қалайда, в любом случае",
+      "translate": "anyway"
+    },
+    {
+      "word": "сағыну, скучать",
+      "translate": "miss"
+    },
+    {
+      "word": "әсер, впечатление",
+      "translate": "impression"
+    },
+    {
+      "word": "басып шығару, распечатать",
+      "translate": "print"
+    },
+    {
+      "word": "сәттілік, іске сәт, удача",
+      "translate": "good luck"
+    },
+    {
+      "word": "кездескенше, до скорой встречи",
+      "translate": "see you later"
+    },
+    {
+      "word": "бірге болсын, и тебе того же",
+      "translate": "same to you"
+    },
+    {
+      "word": "мүмкін, может быть",
+      "translate": "maybe"
+    },
+    {
+      "word": "үйлену, жениться",
+      "translate": "get married"
+    },
+    {
+      "word": "шынында, фактически",
+      "translate": "in fact"
+    },
+    {
+      "word": "дегенмен, тем не менее",
+      "translate": "however"
+    },
+    {
+      "word": "қарыз, долг",
+      "translate": "debt"
+    },
+    {
+      "word": "өкінішке орай, к несчастью",
+      "translate": "unfortunately"
+    },
+    {
+      "word": "қалпына келтіру, восстанавливать",
+      "translate": "reclaim"
+    },
+    {
+      "word": "сүйкімді, милый",
+      "translate": "lovely"
+    },
+    {
+      "word": "ұры, грабитель",
+      "translate": "burglar"
+    },
+    {
+      "word": "пайдалану, использовать",
+      "translate": "utilize"
+    },
+    {
+      "word": "бос уақыт, свободное время",
+      "translate": "free time"
+    },
+    {
+      "word": "ыңғайлы, удобный",
+      "translate": "comfortable"
+    },
+    {
+      "word": "ұрсу, ругать",
+      "translate": "abuse"
+    },
+    {
+      "word": "қайтару, возвращать",
+      "translate": "return"
+    },
+    {
+      "word": "апат, авария",
+      "translate": "accident"
+    },
+    {
+      "word": "ажырасу, разводиться",
+      "translate": "divorce"
+    },
+    {
+      "word": "үлкен, ірі, огромный",
+      "translate": "huge"
+    },
+    {
+      "word": "жарнама, реклама",
+      "translate": "advertisement"
+    },
+    {
+      "word": "қарастыру, рассматривать",
+      "translate": "consider"
+    },
+    {
+      "word": "кемшіліктері, недостатки",
+      "translate": "disadventages"
+    },
+    {
+      "word": "артықшылықтары, преимущества",
+      "translate": "adventages"
+    },
+    {
+      "word": "қағу, постучать",
+      "translate": "knock"
+    },
+    {
+      "word": "тамаша, удивительно",
+      "translate": "amazing"
+    },
+    {
+      "word": "бос емес, занятый",
+      "translate": "busy"
+    },
+    {
+      "word": "жалғастыру, продолжать",
+      "translate": "carry on"
+    },
+    {
+      "word": "тура, дәл, точно, ровно",
+      "translate": "exactly"
+    },
+    {
+      "word": "халықаралық, международный",
+      "translate": "international"
+    },
+    {
+      "word": "сапасы, качество",
+      "translate": "quality"
+    },
+    {
+      "word": "саны, количество",
+      "translate": "quantity"
+    },
+    {
+      "word": "талап ету, требовать",
+      "translate": "require"
+    },
+    {
+      "word": "ұялу, стесняться",
+      "translate": "hesitate"
+    },
+    {
+      "word": "қайыр сұрау, просить, умолять",
+      "translate": "beg"
+    },
+    {
+      "word": "аудан, район",
+      "translate": "district"
+    }
+  ],
+  [
+    {
+      "word": "қараңғы, темно",
+      "translate": "dark"
+    },
+    {
+      "word": "мүмкін, возможный",
+      "translate": "possible"
+    },
+    {
+      "word": "мүмкін емес, невозможный",
+      "translate": "impossible"
+    },
+    {
+      "word": "оң\/сол, право, левый",
+      "translate": "right\/left"
+    },
+    {
+      "word": "қиыншылық, беда",
+      "translate": "trouble"
+    },
+    {
+      "word": "өмір, жизнь",
+      "translate": "life"
+    },
+    {
+      "word": "жағы, сторона",
+      "translate": "side"
+    },
+    {
+      "word": "шындық, правда",
+      "translate": "truth"
+    },
+    {
+      "word": "қош келдіңіз, добро пожаловать",
+      "translate": "you are welcome"
+    },
+    {
+      "word": "бейтаныс, незнакомый",
+      "translate": "unfamiliar"
+    },
+    {
+      "word": "кию, надевать",
+      "translate": "put on"
+    },
+    {
+      "word": "біртүрлі, странный",
+      "translate": "strange"
+    },
+    {
+      "word": "сұхбат, болтать",
+      "translate": "chat"
+    },
+    {
+      "word": "тілін табу, ладить",
+      "translate": "get on, get along with"
+    },
+    {
+      "word": "ғаламдық, глобальный",
+      "translate": "global"
+    },
+    {
+      "word": "теория, теория",
+      "translate": "teory"
+    },
+    {
+      "word": "өтірік айту, лгать",
+      "translate": "lie"
+    },
+    {
+      "word": "талантты, талантливый",
+      "translate": "talented"
+    },
+    {
+      "word": "сүйікті, любимый",
+      "translate": "favorite"
+    },
+    {
+      "word": "жады, память",
+      "translate": "memory"
+    },
+    {
+      "word": "мекендеу, населять",
+      "translate": "populate"
+    },
+    {
+      "word": "жатқа, наизусть",
+      "translate": "by heart"
+    },
+    {
+      "word": "мүмкіндік беру, позволить",
+      "translate": "afford"
+    },
+    {
+      "word": "мойындау, признать",
+      "translate": "recognize"
+    },
+    {
+      "word": "арзан, дешевый",
+      "translate": "cheap"
+    },
+    {
+      "word": "мүлде, абсолютно",
+      "translate": "absolutely"
+    },
+    {
+      "word": "мүмкіндік, возможность",
+      "translate": "opportunity"
+    },
+    {
+      "word": "ұзарту, продлить",
+      "translate": "prolong"
+    },
+    {
+      "word": "сиқыр, магия",
+      "translate": "magic"
+    },
+    {
+      "word": "шақыру, призывать",
+      "translate": "summon"
+    },
+    {
+      "word": "қымбаттым, дорогой\/ая",
+      "translate": "dear"
+    },
+    {
+      "word": "бір жағынан, с одной стороны",
+      "translate": "on the one hand"
+    },
+    {
+      "word": "басқа жағынан, с другой стороны",
+      "translate": "on the other hand"
+    },
+    {
+      "word": "ұмытылмас, незабываемый",
+      "translate": "unforgettable"
+    },
+    {
+      "word": "жету, достигать",
+      "translate": "reach"
+    },
+    {
+      "word": "тексеру, проверять",
+      "translate": "examine"
+    },
+    {
+      "word": "куәлік, сертификат",
+      "translate": "certificate"
+    },
+    {
+      "word": "хабар, сообщения",
+      "translate": "message"
+    },
+    {
+      "word": "алдау, обманывать",
+      "translate": "deceive"
+    },
+    {
+      "word": "қыдыру, тусоваться",
+      "translate": "hang out"
+    }
+  ],
+  [
+    {
+      "word": "қараңғы, темно",
+      "translate": "dark"
+    },
+    {
+      "word": "мүмкін, возможный",
+      "translate": "possible"
+    },
+    {
+      "word": "мүмкін емес, невозможный",
+      "translate": "impossible"
+    },
+    {
+      "word": "оң\/сол, право, левый",
+      "translate": "right\/left"
+    },
+    {
+      "word": "қиыншылық, беда",
+      "translate": "trouble"
+    },
+    {
+      "word": "өмір, жизнь",
+      "translate": "life"
+    },
+    {
+      "word": "жағы, сторона",
+      "translate": "side"
+    },
+    {
+      "word": "шындық, правда",
+      "translate": "truth"
+    },
+    {
+      "word": "қош келдіңіз, добро пожаловать",
+      "translate": "you are welcome"
+    },
+    {
+      "word": "бейтаныс, незнакомый",
+      "translate": "unfamiliar"
+    },
+    {
+      "word": "кию, надевать",
+      "translate": "put on"
+    },
+    {
+      "word": "біртүрлі, странный",
+      "translate": "strange"
+    },
+    {
+      "word": "сұхбат, болтать",
+      "translate": "chat"
+    },
+    {
+      "word": "тілін табу, ладить",
+      "translate": "get on, get along with"
+    },
+    {
+      "word": "ғаламдық, глобальный",
+      "translate": "global"
+    },
+    {
+      "word": "теория, теория",
+      "translate": "teory"
+    },
+    {
+      "word": "өтірік айту, лгать",
+      "translate": "lie"
+    },
+    {
+      "word": "талантты, талантливый",
+      "translate": "talented"
+    },
+    {
+      "word": "сүйікті, любимый",
+      "translate": "favorite"
+    },
+    {
+      "word": "жады, память",
+      "translate": "memory"
+    },
+    {
+      "word": "мекендеу, населять",
+      "translate": "populate"
+    },
+    {
+      "word": "жатқа, наизусть",
+      "translate": "by heart"
+    },
+    {
+      "word": "мүмкіндік беру, позволить",
+      "translate": "afford"
+    },
+    {
+      "word": "мойындау, признать",
+      "translate": "recognize"
+    },
+    {
+      "word": "арзан, дешевый",
+      "translate": "cheap"
+    },
+    {
+      "word": "мүлде, абсолютно",
+      "translate": "absolutely"
+    },
+    {
+      "word": "мүмкіндік, возможность",
+      "translate": "opportunity"
+    },
+    {
+      "word": "ұзарту, продлить",
+      "translate": "prolong"
+    },
+    {
+      "word": "сиқыр, магия",
+      "translate": "magic"
+    },
+    {
+      "word": "шақыру, призывать",
+      "translate": "summon"
+    },
+    {
+      "word": "қымбаттым, дорогой\/ая",
+      "translate": "dear"
+    },
+    {
+      "word": "бір жағынан, с одной стороны",
+      "translate": "on the one hand"
+    },
+    {
+      "word": "басқа жағынан, с другой стороны",
+      "translate": "on the other hand"
+    },
+    {
+      "word": "ұмытылмас, незабываемый",
+      "translate": "unforgettable"
+    },
+    {
+      "word": "жету, достигать",
+      "translate": "reach"
+    },
+    {
+      "word": "тексеру, проверять",
+      "translate": "examine"
+    },
+    {
+      "word": "куәлік, сертификат",
+      "translate": "certificate"
+    },
+    {
+      "word": "хабар, сообщения",
+      "translate": "message"
+    },
+    {
+      "word": "алдау, обманывать",
+      "translate": "deceive"
+    },
+    {
+      "word": "қыдыру, тусоваться",
+      "translate": "hang out"
+    }
+  ],
+  [
+    {
+      "word": "туылған, был рожден",
+      "translate": "was born"
+    },
+    {
+      "word": "тойлау, праздновать",
+      "translate": "celebrate"
+    },
+    {
+      "word": "анық, очевидно",
+      "translate": "obviously"
+    },
+    {
+      "word": "мүмкін, возможно",
+      "translate": "perhaps"
+    },
+    {
+      "word": "орын, место",
+      "translate": "place"
+    },
+    {
+      "word": "тыныш, тихий",
+      "translate": "quite"
+    },
+    {
+      "word": "пайдалы, полезный",
+      "translate": "helpful"
+    },
+    {
+      "word": "пайдасыз, бесполезный",
+      "translate": "useless"
+    },
+    {
+      "word": "зиян, вредный",
+      "translate": "harmful"
+    },
+    {
+      "word": "жұп, пара",
+      "translate": "couple"
+    },
+    {
+      "word": "оңай, легко, легкий",
+      "translate": "easy"
+    },
+    {
+      "word": "үлкен, крупный",
+      "translate": "large"
+    },
+    {
+      "word": "жақсы, хороший",
+      "translate": "nice"
+    },
+    {
+      "word": "мұнда, сол жерде, здесь, там",
+      "translate": "here\/there"
+    },
+    {
+      "word": "қатысу, участвовать",
+      "translate": "participate"
+    },
+    {
+      "word": "мен қалайтын едім, я бы хотел",
+      "translate": "i would like"
+    },
+    {
+      "word": "бүгін қай күн?, какой сегодня день?",
+      "translate": "what day is it today?"
+    },
+    {
+      "word": "аударма, перевод",
+      "translate": "translation"
+    },
+    {
+      "word": "сақ, қамқоршы, осторожный, заботливый",
+      "translate": "careful"
+    },
+    {
+      "word": "ауыр, тяжелый",
+      "translate": "heavy"
+    },
+    {
+      "word": "әтір, духи",
+      "translate": "perfume"
+    },
+    {
+      "word": "сатушы, продавец",
+      "translate": "shop-assistant"
+    },
+    {
+      "word": "вокзал, вокзал",
+      "translate": "railway station"
+    },
+    {
+      "word": "билет, билет",
+      "translate": "ticket"
+    },
+    {
+      "word": "дауыс, голос",
+      "translate": "voice"
+    },
+    {
+      "word": "соңында, в конце концов",
+      "translate": "finally"
+    },
+    {
+      "word": "сондай-ақ, также",
+      "translate": "also"
+    },
+    {
+      "word": "балғын, свежий",
+      "translate": "fresh"
+    },
+    {
+      "word": "шақыру, бросать вызов",
+      "translate": "challenge"
+    },
+    {
+      "word": "бір уақыт ішінде, в течение",
+      "translate": "during"
+    },
+    {
+      "word": "сол уақытта, в тот момент",
+      "translate": "at that moment"
+    },
+    {
+      "word": "сол кезде, в тот время",
+      "translate": "at that time"
+    },
+    {
+      "word": "сағат 5те, в 5 часов",
+      "translate": "at 5 o’clock"
+    },
+    {
+      "word": "сағат 5тен 6ға дейін, с 5 до 6 часов",
+      "translate": "from 5 till 6 o’clock"
+    },
+    {
+      "word": "күні бойы, целый день",
+      "translate": "the whole day"
+    },
+    {
+      "word": "көріну, выглядеть",
+      "translate": "to look"
+    },
+    {
+      "word": "көтерілу, подниматься",
+      "translate": "go up"
+    },
+    {
+      "word": "кіру, входить",
+      "translate": "go in"
+    },
+    {
+      "word": "тітіркендіргіш, раздражительный",
+      "translate": "irritable"
+    },
+    {
+      "word": "жүкті, беременная",
+      "translate": "pregnant"
+    }
+  ],
+  [
+    {
+      "word": "терлеу, потеть",
+      "translate": "sweat"
+    },
+    {
+      "word": "бірге, вместе",
+      "translate": "together"
+    },
+    {
+      "word": "содан кейін, затем",
+      "translate": "then"
+    },
+    {
+      "word": "бағалау, оценивать",
+      "translate": "appreciate"
+    },
+    {
+      "word": "сыртқа шығу, выходить",
+      "translate": "go out"
+    },
+    {
+      "word": "кету, уходить",
+      "translate": "go away"
+    },
+    {
+      "word": "ішке кіру, входить",
+      "translate": "come in"
+    },
+    {
+      "word": "артқа қайту, возвращаться",
+      "translate": "come back"
+    },
+    {
+      "word": "мұнда кел, подойди",
+      "translate": "come here"
+    },
+    {
+      "word": "шұғыл, срочно",
+      "translate": "urgently"
+    },
+    {
+      "word": "бағалау, оценить",
+      "translate": "estimate"
+    },
+    {
+      "word": "лайықты, достойный",
+      "translate": "worthy"
+    },
+    {
+      "word": "әйтпесе, в противном случае",
+      "translate": "otherwise"
+    },
+    {
+      "word": "сөз, слово",
+      "translate": "word"
+    },
+    {
+      "word": "сол үшін, поэтому",
+      "translate": "therefore"
+    },
+    {
+      "word": "кітаптың, дәптердің беті, страница",
+      "translate": "page"
+    },
+    {
+      "word": "керемет, великолепный",
+      "translate": "awesome"
+    },
+    {
+      "word": "оқиға, история",
+      "translate": "story"
+    },
+    {
+      "word": "сыбырлау, шептать",
+      "translate": "whisper"
+    },
+    {
+      "word": "қайғылы, печальный",
+      "translate": "sad"
+    },
+    {
+      "word": "ақша істеу, зарабатывать",
+      "translate": "make money"
+    },
+    {
+      "word": "қателесу, ошибаться",
+      "translate": "make mistake"
+    },
+    {
+      "word": "сабақ істеу, делать урок",
+      "translate": "do lesson"
+    },
+    {
+      "word": "шешу, решать",
+      "translate": "decide"
+    },
+    {
+      "word": "қымбат, дорого",
+      "translate": "expensive"
+    },
+    {
+      "word": "тағдыр, судьба",
+      "translate": "fate"
+    },
+    {
+      "word": "әрине, конечно",
+      "translate": "of course"
+    },
+    {
+      "word": "жалғастыру, продолжать",
+      "translate": "continue"
+    },
+    {
+      "word": "кенеттен, внезапно",
+      "translate": "suddenly"
+    },
+    {
+      "word": "қорқынышты, ужасный",
+      "translate": "awful"
+    },
+    {
+      "word": "үміт, надежда",
+      "translate": "hope"
+    },
+    {
+      "word": "бос, тегін, свободно, бесплатно",
+      "translate": "free"
+    },
+    {
+      "word": "жылдам, быстро",
+      "translate": "quickey"
+    },
+    {
+      "word": "не болып қалды?, что случилось?",
+      "translate": "what happened?"
+    },
+    {
+      "word": "басу, жаншу, нажимать",
+      "translate": "press"
+    },
+    {
+      "word": "баға жетпес, бесценный",
+      "translate": "priceless"
+    },
+    {
+      "word": "жұлдыз, звезда",
+      "translate": "star"
+    },
+    {
+      "word": "қорқыту, угрожать",
+      "translate": "threaten"
+    },
+    {
+      "word": "азайту, азаю, уменьшить",
+      "translate": "decrease"
+    },
+    {
+      "word": "орнату, установить",
+      "translate": "establish"
+    }
+  ],
+  [
+    {
+      "word": "мақтау, хвалить",
+      "translate": "praise"
+    },
+    {
+      "word": "кінәлі деп тану, признать виновным",
+      "translate": "convict"
+    },
+    {
+      "word": "концентраттау, сконцентрировать",
+      "translate": "concentrate"
+    },
+    {
+      "word": "қиындату, усложнить",
+      "translate": "complicate"
+    },
+    {
+      "word": "жақында, недавно",
+      "translate": "recently"
+    },
+    {
+      "word": "тұтқындау, арестовать",
+      "translate": "arrest"
+    },
+    {
+      "word": "шатастыру, запутывать",
+      "translate": "confuse"
+    },
+    {
+      "word": "таңдану, сүйсіну, восхищаться, любоваться",
+      "translate": "admire"
+    },
+    {
+      "word": "шешу, снять, снимать",
+      "translate": "take off"
+    },
+    {
+      "word": "қорытынды жасау, заключать",
+      "translate": "conclude"
+    },
+    {
+      "word": "рұқсат беру, разрешать",
+      "translate": "permit left"
+    },
+    {
+      "word": "сипаттама, описание",
+      "translate": "description"
+    },
+    {
+      "word": "таныстыру, представлять",
+      "translate": "introduce"
+    },
+    {
+      "word": "туған қаласы, родной город",
+      "translate": "native town"
+    },
+    {
+      "word": "ана тілі, родной язык",
+      "translate": "mother tongue"
+    },
+    {
+      "word": "біріншіден, во-первых",
+      "translate": "first off all"
+    },
+    {
+      "word": "бірнеше сөз, несколько слов",
+      "translate": "few words"
+    },
+    {
+      "word": "бәрінен бұрын, прежде всего",
+      "translate": "above all"
+    },
+    {
+      "word": "еңбекқор, трудолюбивый",
+      "translate": "hardworking"
+    },
+    {
+      "word": "сезім, чувства",
+      "translate": "sense"
+    },
+    {
+      "word": "әзіл, юмор",
+      "translate": "humor"
+    },
+    {
+      "word": "одан басқа, кроме того",
+      "translate": "besides"
+    },
+    {
+      "word": "ұйымдастыру, организовать",
+      "translate": "organize"
+    },
+    {
+      "word": "ақылдылықпен, с умом",
+      "translate": "wisely"
+    },
+    {
+      "word": "сонымен қатар, более того",
+      "translate": "moreover"
+    },
+    {
+      "word": "сүретке түсу, сфотографировать",
+      "translate": "take photo"
+    },
+    {
+      "word": "бəрінен бұрын, больше всего",
+      "translate": "most of all"
+    },
+    {
+      "word": "жолдар, пути",
+      "translate": "ways"
+    },
+    {
+      "word": "негізінде, в принципе",
+      "translate": "basically"
+    },
+    {
+      "word": "бар болғаны, это все",
+      "translate": "that’s all"
+    },
+    {
+      "word": "егер нақты айтқанда, если честно сказать",
+      "translate": "if actually say"
+    },
+    {
+      "word": "куәлік ету, свидетельствовать",
+      "translate": "testify"
+    },
+    {
+      "word": "дәл қазір, прямо сейчас",
+      "translate": "right now"
+    },
+    {
+      "word": "болжау, предсказать",
+      "translate": "suppose"
+    },
+    {
+      "word": "шамалау, предполагать",
+      "translate": "guess"
+    },
+    {
+      "word": "кумәнді, подозрительный",
+      "translate": "questionable"
+    },
+    {
+      "word": "жұмысқа қабылдау, нанимать",
+      "translate": "employ"
+    },
+    {
+      "word": "бөлу, делить, разделить",
+      "translate": "divide"
+    },
+    {
+      "word": "жарасу, подходить",
+      "translate": "fit"
+    },
+    {
+      "word": "қанағаттандыру, удовлетворять",
+      "translate": "satisfy"
+    }
+  ],
+  [
+    {
+      "word": "сөздік, словарь",
+      "translate": "vocabulary"
+    },
+    {
+      "word": "қаншалықты жиі, как часто",
+      "translate": "how often"
+    },
+    {
+      "word": "тазалау, убирать",
+      "translate": "tidy up"
+    },
+    {
+      "word": "ысырап ету, терять",
+      "translate": "waste"
+    },
+    {
+      "word": "сәтті, успешный",
+      "translate": "successful"
+    },
+    {
+      "word": "туған кезі, дата рождения",
+      "translate": "date of birth"
+    },
+    {
+      "word": "жасау, создавать",
+      "translate": "create"
+    },
+    {
+      "word": "тамаша, отлично",
+      "translate": "excellent"
+    },
+    {
+      "word": "қамқорлық жасау, заботиться о",
+      "translate": "look after"
+    },
+    {
+      "word": "эмоция, эмоция",
+      "translate": "emotion"
+    },
+    {
+      "word": "қиял, воображения",
+      "translate": "imagination"
+    },
+    {
+      "word": "пайда, выгода",
+      "translate": "benefit"
+    },
+    {
+      "word": "көбірек, больше, более",
+      "translate": "more"
+    },
+    {
+      "word": "мәселе, проблема",
+      "translate": "problem"
+    },
+    {
+      "word": "туған тілде сөйлесу, носитель языка",
+      "translate": "native speaker"
+    },
+    {
+      "word": "ұқсас, похожий",
+      "translate": "similar"
+    },
+    {
+      "word": "сау, здоровый",
+      "translate": "healthy"
+    },
+    {
+      "word": "өрмелеу, взбираться",
+      "translate": "climb"
+    },
+    {
+      "word": "бостандық, свобода",
+      "translate": "freedom"
+    },
+    {
+      "word": "толқыған, возбужденный",
+      "translate": "excited"
+    },
+    {
+      "word": "кінә, кемшілік, вина, ошибаться",
+      "translate": "fault"
+    },
+    {
+      "word": "қорқынышты, ужасный",
+      "translate": "horrible"
+    },
+    {
+      "word": "қауым, общество",
+      "translate": "community"
+    },
+    {
+      "word": "үгіттеу, агитировать",
+      "translate": "agitate"
+    },
+    {
+      "word": "ұялту, смущать",
+      "translate": "embarrass"
+    },
+    {
+      "word": "заманауи, современный",
+      "translate": "modern"
+    },
+    {
+      "word": "ұлт, национальность",
+      "translate": "nationality"
+    },
+    {
+      "word": "ұры, вор",
+      "translate": "thief"
+    },
+    {
+      "word": "жою, уничтожить",
+      "translate": "destroy"
+    },
+    {
+      "word": "айырылысу, расставаться",
+      "translate": "break up"
+    },
+    {
+      "word": "шетелде, за рубежом",
+      "translate": "abroad"
+    },
+    {
+      "word": "бәрінен соң, после всего",
+      "translate": "after all"
+    },
+    {
+      "word": "ұйымдастыру, организовать",
+      "translate": "arrange"
+    },
+    {
+      "word": "асхана, столовая",
+      "translate": "canteen"
+    },
+    {
+      "word": "қабілетсіз, неспособный",
+      "translate": "unable"
+    },
+    {
+      "word": "табыс, доход",
+      "translate": "income"
+    },
+    {
+      "word": "орнату, установить",
+      "translate": "install"
+    },
+    {
+      "word": "зерттеу, исследовать",
+      "translate": "investigate"
+    },
+    {
+      "word": "ұнату, обожать",
+      "translate": "adore"
+    },
+    {
+      "word": "қасиетті, святой",
+      "translate": "holy"
+    }
+  ],
+  [
+    {
+      "word": "бет, лицо",
+      "translate": "face"
+    },
+    {
+      "word": "көздер, глаза",
+      "translate": "eyes"
+    },
+    {
+      "word": "қастар, брови",
+      "translate": "brows"
+    },
+    {
+      "word": "кірпік, ресницы",
+      "translate": "lashes"
+    },
+    {
+      "word": "қабақ, веко",
+      "translate": "eyelid"
+    },
+    {
+      "word": "маңдай, лоб",
+      "translate": "forehead"
+    },
+    {
+      "word": "мұрт, усы",
+      "translate": "moustache"
+    },
+    {
+      "word": "ерін, губы",
+      "translate": "lips"
+    },
+    {
+      "word": "ауыз, рот",
+      "translate": "mouth"
+    },
+    {
+      "word": "мұрын, нос",
+      "translate": "nose"
+    },
+    {
+      "word": "тіл, язык",
+      "translate": "tongue"
+    },
+    {
+      "word": "тіс, зуб",
+      "translate": "tooth"
+    },
+    {
+      "word": "тістер, зубы",
+      "translate": "teeth"
+    },
+    {
+      "word": "бет, щека",
+      "translate": "cheek"
+    },
+    {
+      "word": "иек, подбородок",
+      "translate": "chin"
+    },
+    {
+      "word": "бел, талия",
+      "translate": "waist"
+    },
+    {
+      "word": "аяқ саусақтары, пальцы ног",
+      "translate": "toe"
+    },
+    {
+      "word": "көкірек, грудь муж",
+      "translate": "chest"
+    },
+    {
+      "word": "іш, живот",
+      "translate": "belly"
+    },
+    {
+      "word": "жүрек, сердце",
+      "translate": "heart"
+    },
+    {
+      "word": "асқазан, желудок",
+      "translate": "stomach"
+    },
+    {
+      "word": "өкпе, легкие",
+      "translate": "lung"
+    },
+    {
+      "word": "шаш, волос",
+      "translate": "hair"
+    },
+    {
+      "word": "құлақтар, уши",
+      "translate": "ears"
+    },
+    {
+      "word": "тері, кожа",
+      "translate": "skin"
+    },
+    {
+      "word": "дене, тело",
+      "translate": "body"
+    },
+    {
+      "word": "бүйрек, почка",
+      "translate": "liver"
+    },
+    {
+      "word": "ұзын, длинный",
+      "translate": "long"
+    },
+    {
+      "word": "қисық, кривой",
+      "translate": "curve"
+    },
+    {
+      "word": "ми, мозг",
+      "translate": "brain"
+    },
+    {
+      "word": "аяқ, нога",
+      "translate": "leg"
+    },
+    {
+      "word": "алақан, ладонь",
+      "translate": "palm"
+    },
+    {
+      "word": "мойын, шея",
+      "translate": "neck"
+    },
+    {
+      "word": "тізе, колена",
+      "translate": "knee"
+    },
+    {
+      "word": "шынтақ, локоть",
+      "translate": "elbow"
+    },
+    {
+      "word": "бас, голова",
+      "translate": "head"
+    },
+    {
+      "word": "иықтар, плечи",
+      "translate": "shoulders"
+    },
+    {
+      "word": "кеуде, грудь",
+      "translate": "chest"
+    },
+    {
+      "word": "саусақ, палец",
+      "translate": "finger"
+    },
+    {
+      "word": "тырнақ, ноготь",
+      "translate": "nail"
+    }
+  ],
+  [
+    {
+      "word": "ресторан, ресторан",
+      "translate": "restaurant"
+    },
+    {
+      "word": "түскі ас, обед",
+      "translate": "lunch"
+    },
+    {
+      "word": "тез тағам, фаст фуд",
+      "translate": "fast-food"
+    },
+    {
+      "word": "шәй, чай",
+      "translate": "tea"
+    },
+    {
+      "word": "шәйнек, чайник",
+      "translate": "tea-pot"
+    },
+    {
+      "word": "тұзды, соленный",
+      "translate": "salty"
+    },
+    {
+      "word": "дәмді, вкусный",
+      "translate": "delicious"
+    },
+    {
+      "word": "пышақ, нож",
+      "translate": "knife"
+    },
+    {
+      "word": "қасық, ложка",
+      "translate": "spoon"
+    },
+    {
+      "word": "шәй қасық, чайный ложка",
+      "translate": "teaspoon"
+    },
+    {
+      "word": "шанышқы, вилка",
+      "translate": "fork"
+    },
+    {
+      "word": "пепельница, пепельница",
+      "translate": "ash-tray"
+    },
+    {
+      "word": "ыдыс, посуда",
+      "translate": "dish"
+    },
+    {
+      "word": "тәрелке, тарелка",
+      "translate": "plate"
+    },
+    {
+      "word": "құрғақ, сухой",
+      "translate": "dry"
+    },
+    {
+      "word": "дымқыл, влажный",
+      "translate": "wet"
+    },
+    {
+      "word": "тапсырыс, заказ",
+      "translate": "order"
+    },
+    {
+      "word": "салат, салат",
+      "translate": "salad"
+    },
+    {
+      "word": "даяршы, официант\/официантка",
+      "translate": "waiter\/waitress"
+    },
+    {
+      "word": "неге?, почему?",
+      "translate": "why?"
+    },
+    {
+      "word": "стакан, стакан",
+      "translate": "glass"
+    },
+    {
+      "word": "бокал, бокал",
+      "translate": "cup"
+    },
+    {
+      "word": "шот, счет",
+      "translate": "bill"
+    },
+    {
+      "word": "мысалы, на пример",
+      "translate": "for example"
+    },
+    {
+      "word": "порция, порция",
+      "translate": "portion"
+    },
+    {
+      "word": "балмұздақ, мороженное",
+      "translate": "ice-cream"
+    },
+    {
+      "word": "шарап, вино",
+      "translate": "wine"
+    },
+    {
+      "word": "сыра, пиво",
+      "translate": "beer"
+    },
+    {
+      "word": "арақ, водка",
+      "translate": "vodka"
+    },
+    {
+      "word": "ыстық, горячий",
+      "translate": "hot"
+    },
+    {
+      "word": "суық, холодный",
+      "translate": "cold"
+    },
+    {
+      "word": "тоңазытқыш, холодильник",
+      "translate": "refrigerator"
+    },
+    {
+      "word": "микротолқыныды пеш, микроволновка",
+      "translate": "microwave"
+    },
+    {
+      "word": "ақылды ой, умная идея",
+      "translate": "clever idea"
+    },
+    {
+      "word": "продукт, продукт",
+      "translate": "product"
+    },
+    {
+      "word": "шайнау, жевать",
+      "translate": "chew"
+    },
+    {
+      "word": "жалау, облизывать",
+      "translate": "lick"
+    },
+    {
+      "word": "құсу, рвота",
+      "translate": "vomit"
+    },
+    {
+      "word": "жұту, глотать",
+      "translate": "swallow"
+    },
+    {
+      "word": "ақылға сыймайтын, невероятный",
+      "translate": "unbelievable"
+    }
+  ],
+  [
+    {
+      "word": "жиһаз, мебель",
+      "translate": "furniture"
+    },
+    {
+      "word": "қабырға, стена",
+      "translate": "wall"
+    },
+    {
+      "word": "кресло, кресло",
+      "translate": "armchair"
+    },
+    {
+      "word": "шатыр, крыша",
+      "translate": "roof"
+    },
+    {
+      "word": "диван, диван",
+      "translate": "sofa"
+    },
+    {
+      "word": "сөре, полка",
+      "translate": "shelf"
+    },
+    {
+      "word": "үстел, стол",
+      "translate": "table"
+    },
+    {
+      "word": "жастық, подушка",
+      "translate": "pillow"
+    },
+    {
+      "word": "төсек, постель",
+      "translate": "bed"
+    },
+    {
+      "word": "үтік\/темір, утюг\/железо",
+      "translate": "iron"
+    },
+    {
+      "word": "есік, дверь",
+      "translate": "door"
+    },
+    {
+      "word": "аурухана, больница",
+      "translate": "hospital"
+    },
+    {
+      "word": "көрпе, покрывал",
+      "translate": "blanket"
+    },
+    {
+      "word": "ноутбук, ноутбук",
+      "translate": "laptop"
+    },
+    {
+      "word": "айна, зеркало",
+      "translate": "mirror"
+    },
+    {
+      "word": "пәтер, квартира",
+      "translate": "flat"
+    },
+    {
+      "word": "бөлме, комната",
+      "translate": "room"
+    },
+    {
+      "word": "асхана, кухня",
+      "translate": "kitchen"
+    },
+    {
+      "word": "кішігірім дүкен, лавка",
+      "translate": "store"
+    },
+    {
+      "word": "холл, холл",
+      "translate": "hall"
+    },
+    {
+      "word": "қонақ бөлме, гостиная",
+      "translate": "living room"
+    },
+    {
+      "word": "жуынатын бөлме, ванная",
+      "translate": "bathroom"
+    },
+    {
+      "word": "жатын бөлме, спальная комната",
+      "translate": "bedroom"
+    },
+    {
+      "word": "көпір, мост",
+      "translate": "bridge"
+    },
+    {
+      "word": "пойыз, поезд",
+      "translate": "train"
+    },
+    {
+      "word": "ойыншық, игрушка",
+      "translate": "toy"
+    },
+    {
+      "word": "сүлгі, полотенце",
+      "translate": "towel"
+    },
+    {
+      "word": "жекеше, ед. число",
+      "translate": "singular"
+    },
+    {
+      "word": "чемодан, чемодан",
+      "translate": "suitcase"
+    },
+    {
+      "word": "сабын, мыло",
+      "translate": "soap"
+    },
+    {
+      "word": "көпше, множ. число",
+      "translate": "plural"
+    },
+    {
+      "word": "шаңсорғыш, пылесос",
+      "translate": "vacuum cleaner"
+    },
+    {
+      "word": "түн ортасы, полночь",
+      "translate": "midnight"
+    },
+    {
+      "word": "батылдық, храбрость",
+      "translate": "courage"
+    },
+    {
+      "word": "тексеру, проверять",
+      "translate": "check"
+    },
+    {
+      "word": "жетілдіру, жақсарту, улучшить",
+      "translate": "improve"
+    },
+    {
+      "word": "талқылау, обсуждать",
+      "translate": "discussion"
+    },
+    {
+      "word": "шешім, решение",
+      "translate": "decision"
+    },
+    {
+      "word": "қабілеттілік, способность",
+      "translate": "ability"
+    },
+    {
+      "word": "кешіктіру, задержать",
+      "translate": "delay"
+    }
+  ],
+  [
+    {
+      "word": "картоп, картошка",
+      "translate": "potato"
+    },
+    {
+      "word": "қызанақ, помидор",
+      "translate": "tomato"
+    },
+    {
+      "word": "көкөністер, овощи",
+      "translate": "vegetables"
+    },
+    {
+      "word": "жемістер, фрукты",
+      "translate": "fruits"
+    },
+    {
+      "word": "қияр, огурец",
+      "translate": "cucumber"
+    },
+    {
+      "word": "пияз, лук",
+      "translate": "onion"
+    },
+    {
+      "word": "жүзім, виноград",
+      "translate": "grapes"
+    },
+    {
+      "word": "құлпынай, клубника",
+      "translate": "strawberry"
+    },
+    {
+      "word": "малина, малина",
+      "translate": "raspberry"
+    },
+    {
+      "word": "алма, яблока",
+      "translate": "an apple"
+    },
+    {
+      "word": "алмұрт, груша",
+      "translate": "pear"
+    },
+    {
+      "word": "ананас, ананас",
+      "translate": "pineapple"
+    },
+    {
+      "word": "піскен, спелый",
+      "translate": "ripe"
+    },
+    {
+      "word": "орамжапырақ, капуста",
+      "translate": "cabbage"
+    },
+    {
+      "word": "жұмыртқа, яйцо",
+      "translate": "an egg"
+    },
+    {
+      "word": "қайнатылған, вареный",
+      "translate": "boiled"
+    },
+    {
+      "word": "қуырылған, жаренный",
+      "translate": "fried"
+    },
+    {
+      "word": "нан, хлеб",
+      "translate": "bread"
+    },
+    {
+      "word": "шие, вишня",
+      "translate": "cherry"
+    },
+    {
+      "word": "макарон, макарон",
+      "translate": "pasta"
+    },
+    {
+      "word": "сүт, молоко",
+      "translate": "milk"
+    },
+    {
+      "word": "булочка, булочка",
+      "translate": "roll"
+    },
+    {
+      "word": "ет, мясо",
+      "translate": "a meat"
+    },
+    {
+      "word": "балық, рыба",
+      "translate": "a fish"
+    },
+    {
+      "word": "себет, корзина",
+      "translate": "a basket"
+    },
+    {
+      "word": "дәм, вкус",
+      "translate": "taste"
+    },
+    {
+      "word": "дәмсіз, безвкусный",
+      "translate": "tasteless"
+    },
+    {
+      "word": "қышқыл, кислый",
+      "translate": "sour"
+    },
+    {
+      "word": "блинчик, блинчик",
+      "translate": "pancake"
+    },
+    {
+      "word": "ботқа, каша",
+      "translate": "porridge"
+    },
+    {
+      "word": "тағам, блюда",
+      "translate": "meal"
+    },
+    {
+      "word": "сірінке, спичка",
+      "translate": "match"
+    },
+    {
+      "word": "май, масло",
+      "translate": "butter"
+    },
+    {
+      "word": "бөлігі, кусок",
+      "translate": "a piece"
+    },
+    {
+      "word": "қант, сахар",
+      "translate": "sugar"
+    },
+    {
+      "word": "тұз, соль",
+      "translate": "salt"
+    },
+    {
+      "word": "торт, торт",
+      "translate": "cake"
+    },
+    {
+      "word": "бал, мёд",
+      "translate": "honey"
+    },
+    {
+      "word": "консервіленген, консервированный",
+      "translate": "canned"
+    },
+    {
+      "word": "су, вода",
+      "translate": "water"
+    }
+  ],
+  [
+    {
+      "word": "біреу, кто то",
+      "translate": "somebody"
+    },
+    {
+      "word": "біреу, кто то",
+      "translate": "someone"
+    },
+    {
+      "word": "бір нәрсе, что вто",
+      "translate": "something"
+    },
+    {
+      "word": "бір жерде, где то",
+      "translate": "somewhere"
+    },
+    {
+      "word": "кез келген біреу, кто нибудь",
+      "translate": "anybody"
+    },
+    {
+      "word": "кез келген адам, кто нибудь",
+      "translate": "anyone"
+    },
+    {
+      "word": "кез келген нәрсе, что нибудь",
+      "translate": "anything"
+    },
+    {
+      "word": "кез келген жерде, где нибудь",
+      "translate": "anywhere"
+    },
+    {
+      "word": "ешкім, никто",
+      "translate": "nobody"
+    },
+    {
+      "word": "ешкім, никто",
+      "translate": "no one"
+    },
+    {
+      "word": "ештенке, ничего",
+      "translate": "nothing"
+    },
+    {
+      "word": "еш жерде, нигде",
+      "translate": "nowhere"
+    },
+    {
+      "word": "бәрі, все",
+      "translate": "everybody"
+    },
+    {
+      "word": "бәрі, каждый",
+      "translate": "everyone"
+    },
+    {
+      "word": "барлық, все",
+      "translate": "everything"
+    },
+    {
+      "word": "барлық жерде, везде",
+      "translate": "everywhere"
+    },
+    {
+      "word": "патша, король",
+      "translate": "king"
+    },
+    {
+      "word": "құпия, секрет",
+      "translate": "secret"
+    },
+    {
+      "word": "мойындау, признать",
+      "translate": "recognizance"
+    },
+    {
+      "word": "басқа ештене, ничего больше",
+      "translate": "nothing else"
+    },
+    {
+      "word": "жуырда, скоро",
+      "translate": "soon"
+    },
+    {
+      "word": "кейін, поздно",
+      "translate": "late"
+    },
+    {
+      "word": "ерте, рано",
+      "translate": "early"
+    },
+    {
+      "word": "мұқият, внимательно",
+      "translate": "carefully"
+    },
+    {
+      "word": "жоғалу, исчезнуть",
+      "translate": "disappear"
+    },
+    {
+      "word": "жарық, яркий",
+      "translate": "bright"
+    },
+    {
+      "word": "қымбатты, дорогая",
+      "translate": "dear"
+    },
+    {
+      "word": "сияқты, как, подобно",
+      "translate": "like"
+    },
+    {
+      "word": "шарт, условие",
+      "translate": "condition"
+    },
+    {
+      "word": "менінше, по моему",
+      "translate": "it seems to me"
+    },
+    {
+      "word": "ыңғайлы, уютный",
+      "translate": "cozy"
+    },
+    {
+      "word": "тіпті, даже",
+      "translate": "even"
+    },
+    {
+      "word": "қарсы, против",
+      "translate": "against"
+    },
+    {
+      "word": "сәйкес, подходящий",
+      "translate": "appropriate"
+    },
+    {
+      "word": "құлыптау, запереть",
+      "translate": "lock"
+    },
+    {
+      "word": "осы уақытта, в это время",
+      "translate": "in this time"
+    },
+    {
+      "word": "бір заманда, жил-был",
+      "translate": "once upon a time"
+    },
+    {
+      "word": "тағы бір рет, еще раз",
+      "translate": "once again"
+    },
+    {
+      "word": "мен бала кезімде, когда я был ребенком",
+      "translate": "when i was a child"
+    },
+    {
+      "word": "бала кезінен, с детства",
+      "translate": "from childhood"
+    }
+  ],
+  [
+    {
+      "word": "қоғам, общество",
+      "translate": "society"
+    },
+    {
+      "word": "қойылым, спектакль",
+      "translate": "performance"
+    },
+    {
+      "word": "бұзу, разрушить",
+      "translate": "ruin"
+    },
+    {
+      "word": "тергеу, исследовать",
+      "translate": "investigate"
+    },
+    {
+      "word": "сондай-ақ, также",
+      "translate": "also"
+    },
+    {
+      "word": "арасында, среди",
+      "translate": "among"
+    },
+    {
+      "word": "хабарлау, объявлять",
+      "translate": "announce"
+    },
+    {
+      "word": "басқа, другой",
+      "translate": "another"
+    },
+    {
+      "word": "аудан, область",
+      "translate": "area"
+    },
+    {
+      "word": "шіркеу, церковь",
+      "translate": "church"
+    },
+    {
+      "word": "сенімді, уверенный",
+      "translate": "confident"
+    },
+    {
+      "word": "іш пыстырарлық, скучный",
+      "translate": "boring"
+    },
+    {
+      "word": "түссіз, бесцветный",
+      "translate": "colorless"
+    },
+    {
+      "word": "күн шуақты, солнечный",
+      "translate": "sunny"
+    },
+    {
+      "word": "тар, узкий",
+      "translate": "narrow"
+    },
+    {
+      "word": "тірі, живой",
+      "translate": "alive"
+    },
+    {
+      "word": "тартымды, привлекательный",
+      "translate": "attractive"
+    },
+    {
+      "word": "ақымақ, глупый",
+      "translate": "silly"
+    },
+    {
+      "word": "сезімсіз, бесчувственный",
+      "translate": "senseless"
+    },
+    {
+      "word": "тәтті, сладкий",
+      "translate": "sweet"
+    },
+    {
+      "word": "кәсіби, профессионал",
+      "translate": "professional"
+    },
+    {
+      "word": "адал емес, нечестный",
+      "translate": "dishonest"
+    },
+    {
+      "word": "түсті, цветной",
+      "translate": "colorful"
+    },
+    {
+      "word": "толық, полный",
+      "translate": "full"
+    },
+    {
+      "word": "жау, враг",
+      "translate": "enemy"
+    },
+    {
+      "word": "мейірімділік, доброта",
+      "translate": "kindness"
+    },
+    {
+      "word": "алып жүру, сопровождать",
+      "translate": "accompany"
+    },
+    {
+      "word": "қосу, біріктіру, объединить",
+      "translate": "unite"
+    },
+    {
+      "word": "еске салу, напомнить",
+      "translate": "remind"
+    },
+    {
+      "word": "проблема шешу, решить проблему",
+      "translate": "solve problem"
+    },
+    {
+      "word": "рұқсат беру, дайте разрешение",
+      "translate": "give permission"
+    },
+    {
+      "word": "өте жақсы, отлично",
+      "translate": "perfectly"
+    },
+    {
+      "word": "басқару, управлять",
+      "translate": "manage"
+    },
+    {
+      "word": "болжау, угадать",
+      "translate": "guess"
+    },
+    {
+      "word": "назар аудару, обращать внимание",
+      "translate": "pay attention"
+    },
+    {
+      "word": "мақсатқа жету, достигать",
+      "translate": "achieve"
+    },
+    {
+      "word": "қосу үшін, в дополнение",
+      "translate": "in addition"
+    },
+    {
+      "word": "сенімді болу, убеждать",
+      "translate": "make sure"
+    },
+    {
+      "word": "байлық, богатство",
+      "translate": "wealth"
+    },
+    {
+      "word": "қашу, бегать",
+      "translate": "escape"
+    }
+  ],
+  [
+    {
+      "word": "батпақ, болота",
+      "translate": "swamp"
+    },
+    {
+      "word": "кешкі ас, ужин",
+      "translate": "supper"
+    },
+    {
+      "word": "құрал-сайман, инструмент",
+      "translate": "tools"
+    },
+    {
+      "word": "ғасыр, век",
+      "translate": "century"
+    },
+    {
+      "word": "пікір, мнение",
+      "translate": "opinion"
+    },
+    {
+      "word": "теміржол, железная дорога",
+      "translate": "railway"
+    },
+    {
+      "word": "үлкен, большой",
+      "translate": "vast"
+    },
+    {
+      "word": "кезек, очередь",
+      "translate": "queue"
+    },
+    {
+      "word": "жеңілдік, скидка",
+      "translate": "discount"
+    },
+    {
+      "word": "қылтима, балкон",
+      "translate": "balcony"
+    },
+    {
+      "word": "қайыршы, попрошайка",
+      "translate": "beggar"
+    },
+    {
+      "word": "аула, двор",
+      "translate": "a yard"
+    },
+    {
+      "word": "кілт, ключ",
+      "translate": "a key"
+    },
+    {
+      "word": "лифт, лифт",
+      "translate": "an elevator"
+    },
+    {
+      "word": "әжетхана қағазы, туалетная бумага",
+      "translate": "toilet tissue"
+    },
+    {
+      "word": "дәліз, коридор",
+      "translate": "bellboy"
+    },
+    {
+      "word": "ерекше, эксклюзивный",
+      "translate": "exclusive"
+    },
+    {
+      "word": "тиімді, эффективный",
+      "translate": "effective"
+    },
+    {
+      "word": "мағыналы, значимый",
+      "translate": "meaningful"
+    },
+    {
+      "word": "қолтаңба, подпись",
+      "translate": "signature"
+    },
+    {
+      "word": "құрбан ету, жертвовать",
+      "translate": "sacrifice"
+    },
+    {
+      "word": "ақыры, в конце концов",
+      "translate": "eventually"
+    },
+    {
+      "word": "бұл жағдайда, в этой ситуации",
+      "translate": "in this situation"
+    },
+    {
+      "word": "салыстыру, сравнение",
+      "translate": "comparison"
+    },
+    {
+      "word": "жалақы, зарплата",
+      "translate": "wage"
+    },
+    {
+      "word": "маңызды емес, не важно",
+      "translate": "no matter"
+    },
+    {
+      "word": "ауызынды жап, закрой рот",
+      "translate": "shut up"
+    },
+    {
+      "word": "жазу, записывать",
+      "translate": "record"
+    },
+    {
+      "word": "бірден, сразу",
+      "translate": "at once"
+    },
+    {
+      "word": "зиянсыз, безвредный",
+      "translate": "harmless"
+    },
+    {
+      "word": "дауысты, гласный",
+      "translate": "vowel"
+    },
+    {
+      "word": "есімдік, местоимение",
+      "translate": "pronoun"
+    },
+    {
+      "word": "үстеу, наречие",
+      "translate": "adverb"
+    },
+    {
+      "word": "ереуіл, завастовка",
+      "translate": "strike"
+    },
+    {
+      "word": "жеке, лично",
+      "translate": "personally"
+    },
+    {
+      "word": "күнделікті, ежедневно",
+      "translate": "daily"
+    },
+    {
+      "word": "ежелгі, древний",
+      "translate": "ancient"
+    },
+    {
+      "word": "қысқаша, короче говоря",
+      "translate": "in short"
+    },
+    {
+      "word": "куә болу, свидетельствовать",
+      "translate": "witness"
+    },
+    {
+      "word": "жою, уничтожить",
+      "translate": "liquidate"
+    }
+  ],
+  [
+    {
+      "word": "қарғау, проклинать",
+      "translate": "curse"
+    },
+    {
+      "word": "тәбет, аппетит",
+      "translate": "appetite"
+    },
+    {
+      "word": "шамамен, примерно",
+      "translate": "approximately"
+    },
+    {
+      "word": "айтыс, дебат, аргумент, спор",
+      "translate": "argument"
+    },
+    {
+      "word": "қолтық, подмышка",
+      "translate": "armpit"
+    },
+    {
+      "word": "назар, внимание",
+      "translate": "attention"
+    },
+    {
+      "word": "көзқарас , қатынас, отношение",
+      "translate": "attitude"
+    },
+    {
+      "word": "құрметтеу, уважать",
+      "translate": "honor"
+    },
+    {
+      "word": "еске салу, упоминать",
+      "translate": "mention"
+    },
+    {
+      "word": "зиян, вред",
+      "translate": "harm"
+    },
+    {
+      "word": "аяқталмаған, незавершенный",
+      "translate": "incomplete"
+    },
+    {
+      "word": "найзағай, гром",
+      "translate": "thunder"
+    },
+    {
+      "word": "пайғамбар, пророк",
+      "translate": "prophet"
+    },
+    {
+      "word": "туған аға, родной брат",
+      "translate": "sibling"
+    },
+    {
+      "word": "алдын ала, заранее",
+      "translate": "beforehand"
+    },
+    {
+      "word": "ұялшақ, застенчивый",
+      "translate": "bashful"
+    },
+    {
+      "word": "өзін ұстау, вести себя",
+      "translate": "behave"
+    },
+    {
+      "word": "діндар, сенуші, верующий",
+      "translate": "believer"
+    },
+    {
+      "word": "сүйікті, любимый",
+      "translate": "beloved"
+    },
+    {
+      "word": "қал, родинка",
+      "translate": "birthmark"
+    },
+    {
+      "word": "тыныс алу, дышать",
+      "translate": "breathe"
+    },
+    {
+      "word": "қатал, дөрекі, грубый, жесткий",
+      "translate": "brute"
+    },
+    {
+      "word": "лагерь, лагерь",
+      "translate": "camp"
+    },
+    {
+      "word": "мультфильм, мультфильм",
+      "translate": "cartoon"
+    },
+    {
+      "word": "жарысу, соревноваться",
+      "translate": "compete"
+    },
+    {
+      "word": "демалыс күн, выходной",
+      "translate": "day off"
+    },
+    {
+      "word": "пікір-талас, спор",
+      "translate": "debate"
+    },
+    {
+      "word": "жұдырық, кулак",
+      "translate": "fist"
+    },
+    {
+      "word": "жалған, ложь",
+      "translate": "false"
+    },
+    {
+      "word": "батыл, ержүрек, бесстрашный",
+      "translate": "fearless"
+    },
+    {
+      "word": "ойлап құрастыру, придумать",
+      "translate": "forge"
+    },
+    {
+      "word": "мақсат, цель",
+      "translate": "goal"
+    },
+    {
+      "word": "жел, ветер",
+      "translate": "the wind"
+    },
+    {
+      "word": "айтып тұру, диктовать",
+      "translate": "dictate"
+    },
+    {
+      "word": "бастаушы, начинающий",
+      "translate": "beginner"
+    },
+    {
+      "word": "шынымен, действительно",
+      "translate": "truly"
+    },
+    {
+      "word": "шошқа еті, бекон",
+      "translate": "bacon"
+    },
+    {
+      "word": "наубай, пекарь",
+      "translate": "baker"
+    },
+    {
+      "word": "жолақы, за проезд",
+      "translate": "driveway"
+    },
+    {
+      "word": "куәландыру, удостоверять",
+      "translate": "certify"
+    }
+  ],
+  [
+    {
+      "word": "әжім, морщина",
+      "translate": "wrinkle"
+    },
+    {
+      "word": "лайықты, достойный",
+      "translate": "worthy"
+    },
+    {
+      "word": "пайдасыз, бесполезный",
+      "translate": "useless"
+    },
+    {
+      "word": "керемет, замечательный",
+      "translate": "wonderful"
+    },
+    {
+      "word": "ағаш, дерево",
+      "translate": "wood"
+    },
+    {
+      "word": "жүн, шерсть",
+      "translate": "wool"
+    },
+    {
+      "word": "сиқыршы, волшебник",
+      "translate": "wizard"
+    },
+    {
+      "word": "ерік, воля",
+      "translate": "will"
+    },
+    {
+      "word": "әлсіздік, слабость",
+      "translate": "weakness"
+    },
+    {
+      "word": "гардероб, гардероб",
+      "translate": "wardrobe"
+    },
+    {
+      "word": "құрбан, жертва",
+      "translate": "victim"
+    },
+    {
+      "word": "ерекше, необычный",
+      "translate": "unusual"
+    },
+    {
+      "word": "қалалық, городской",
+      "translate": "urban"
+    },
+    {
+      "word": "ерекше, уникальный",
+      "translate": "unique"
+    },
+    {
+      "word": "іш киім, нижнее белье",
+      "translate": "underwear"
+    },
+    {
+      "word": "қолшатыр, зонтик",
+      "translate": "umbrella"
+    },
+    {
+      "word": "егіздер, близнецы",
+      "translate": "twins"
+    },
+    {
+      "word": "репетитор, репетитор",
+      "translate": "tutor"
+    },
+    {
+      "word": "жаттықтырушы, тренер",
+      "translate": "coach"
+    },
+    {
+      "word": "бағдаршам, светофор",
+      "translate": "traffic light"
+    },
+    {
+      "word": "мұра, наследство",
+      "translate": "heritage"
+    },
+    {
+      "word": "батыр, герой",
+      "translate": "hero"
+    },
+    {
+      "word": "жоғары сынып, старший класс",
+      "translate": "high class"
+    },
+    {
+      "word": "жіберіп алу, пропускать",
+      "translate": "omit"
+    },
+    {
+      "word": "өлмес, бессмертный",
+      "translate": "immortal"
+    },
+    {
+      "word": "бала-бақша, детский сад",
+      "translate": "kinder garden"
+    },
+    {
+      "word": "жындыхана, псих больница",
+      "translate": "asylum"
+    },
+    {
+      "word": "қолдан жасалған, искусственный",
+      "translate": "man made"
+    },
+    {
+      "word": "майлық, салфетка",
+      "translate": "napkin"
+    },
+    {
+      "word": "дегенмен, однако",
+      "translate": "nevertheless"
+    },
+    {
+      "word": "жөндеу, чинить",
+      "translate": "repair"
+    },
+    {
+      "word": "дәрі, лекарство",
+      "translate": "remedy"
+    },
+    {
+      "word": "дауыстап оқу, читать вслух",
+      "translate": "recide"
+    },
+    {
+      "word": "кемпірқосақ, радуга",
+      "translate": "rainbow"
+    },
+    {
+      "word": "жариялау, публиковать",
+      "translate": "publish"
+    },
+    {
+      "word": "пайдалы, прибыльный",
+      "translate": "profitable"
+    },
+    {
+      "word": "пайда, прибыль, доход",
+      "translate": "profit"
+    },
+    {
+      "word": "артық көру, предпочитать",
+      "translate": "prefer"
+    },
+    {
+      "word": "жалдау, бронировать",
+      "translate": "to book"
+    },
+    {
+      "word": "жырту, рвать",
+      "translate": "to tear"
+    }
+  ],
+  [
+    {
+      "word": "лақап аты, кличка",
+      "translate": "nickname"
+    },
+    {
+      "word": "соска, соска",
+      "translate": "nipple"
+    },
+    {
+      "word": "мініп жүру, ездить",
+      "translate": "ride"
+    },
+    {
+      "word": "серіктестік, партнерство",
+      "translate": "partnership"
+    },
+    {
+      "word": "құпия сөз, пароль",
+      "translate": "password"
+    },
+    {
+      "word": "төлем, платеж",
+      "translate": "payment"
+    },
+    {
+      "word": "зейнетақы, пенсия",
+      "translate": "pension"
+    },
+    {
+      "word": "кептеліс, пробка",
+      "translate": "plug"
+    },
+    {
+      "word": "халық, народ",
+      "translate": "population"
+    },
+    {
+      "word": "ұстаным, принцип",
+      "translate": "position"
+    },
+    {
+      "word": "жалғыз, одинокий",
+      "translate": "lonely"
+    },
+    {
+      "word": "ұсақ, мелкий",
+      "translate": "shallow"
+    },
+    {
+      "word": "не үшін?, почему?",
+      "translate": "for what"
+    },
+    {
+      "word": "мола, гроб",
+      "translate": "grave"
+    },
+    {
+      "word": "қиын, тяжёлый",
+      "translate": "tought"
+    },
+    {
+      "word": "ынта, страсть",
+      "translate": "passion"
+    },
+    {
+      "word": "жолы болғыш, везучий",
+      "translate": "lucky"
+    },
+    {
+      "word": "өтірік, ложь",
+      "translate": "deseption"
+    },
+    {
+      "word": "белгі, знак",
+      "translate": "sign"
+    },
+    {
+      "word": "қорқыту, угрожать",
+      "translate": "scare"
+    },
+    {
+      "word": "кешірімсіз, никаких оправданий",
+      "translate": "no excuses"
+    },
+    {
+      "word": "күнә, грех",
+      "translate": "sin"
+    },
+    {
+      "word": "сәтсіздікке ұшырау, провал",
+      "translate": "fail"
+    },
+    {
+      "word": "кішкентай, маленький",
+      "translate": "tiny"
+    },
+    {
+      "word": "жұмбақ, загадка",
+      "translate": "riddle"
+    },
+    {
+      "word": "көз жас, слезы",
+      "translate": "tears"
+    },
+    {
+      "word": "қолайлы, подходящий",
+      "translate": "suitable"
+    },
+    {
+      "word": "терең, глубокий",
+      "translate": "deep"
+    },
+    {
+      "word": "соттау, судить",
+      "translate": "judge"
+    },
+    {
+      "word": "кімге?, кому?",
+      "translate": "for whom"
+    },
+    {
+      "word": "жолдастары, друзья",
+      "translate": "companion"
+    },
+    {
+      "word": "көму, похоронить",
+      "translate": "bury"
+    },
+    {
+      "word": "сүйек, кость",
+      "translate": "bone"
+    },
+    {
+      "word": "сілтеу, нүкте, показывать, точка",
+      "translate": "paint"
+    },
+    {
+      "word": "артқа қайту, вернуться назад",
+      "translate": "get back"
+    },
+    {
+      "word": "қылмыс жасау, сделать преступление",
+      "translate": "commit"
+    },
+    {
+      "word": "таңертең, утро",
+      "translate": "morning"
+    },
+    {
+      "word": "түс, обед",
+      "translate": "aftermoon"
+    },
+    {
+      "word": "кеш, вечер",
+      "translate": "evening"
+    },
+    {
+      "word": "түн, ночь",
+      "translate": "night"
+    }
+  ],
+  [
+    {
+      "word": "sage, очень мудрый",
+      "translate": "very wise"
+    },
+    {
+      "word": "pouring, очень дождливый",
+      "translate": "very raing"
+    },
+    {
+      "word": "cutthroad, очень конкурентный",
+      "translate": "very competitive"
+    },
+    {
+      "word": "stingy, дешевка",
+      "translate": "very cheap"
+    },
+    {
+      "word": "perplexed, запутан",
+      "translate": "very confused"
+    },
+    {
+      "word": "exhilarating, волнующий",
+      "translate": "very exciting"
+    },
+    {
+      "word": "lethargic, очень сонный",
+      "translate": "very sleepy"
+    },
+    {
+      "word": "gaunt, очень тонкий",
+      "translate": "very thin"
+    },
+    {
+      "word": "immaculate, безупречный",
+      "translate": "very neat"
+    },
+    {
+      "word": "perilous, очень рискованный",
+      "translate": "very risky"
+    },
+    {
+      "word": "fearful, сильно напуган",
+      "translate": "very afraid"
+    },
+    {
+      "word": "innovative, очень творческий",
+      "translate": "very creative"
+    },
+    {
+      "word": "wicked, безжалостный",
+      "translate": "very evil"
+    },
+    {
+      "word": "excellent, великолепно",
+      "translate": "very good"
+    },
+    {
+      "word": "luminous, сияющий",
+      "translate": "very light"
+    },
+    {
+      "word": "kind, любезный",
+      "translate": "very nice"
+    },
+    {
+      "word": "wealthy, очень богатый",
+      "translate": "very rich"
+    },
+    {
+      "word": "destitute, очень бедный",
+      "translate": "very poor"
+    },
+    {
+      "word": "serene, безмятежный",
+      "translate": "very calm"
+    },
+    {
+      "word": "deafening, очень громкий",
+      "translate": "very loud"
+    },
+    {
+      "word": "ancient, очень старый",
+      "translate": "very old"
+    },
+    {
+      "word": "sluggish, очень медленный",
+      "translate": "very slow"
+    },
+    {
+      "word": "brief, очень короткий",
+      "translate": "very short"
+    },
+    {
+      "word": "distressed, беспокойный",
+      "translate": "very worried"
+    },
+    {
+      "word": "distraught, потерявший рассудок",
+      "translate": "very upset"
+    },
+    {
+      "word": "overjoyed, очень довольный",
+      "translate": "very glad"
+    },
+    {
+      "word": "adorable, очень милый",
+      "translate": "very cute"
+    },
+    {
+      "word": "vibrant, очень яркий",
+      "translate": "very colorful"
+    },
+    {
+      "word": "timid, очень застенчивый",
+      "translate": "very shy"
+    },
+    {
+      "word": "frail, очень слабый",
+      "translate": "very weak"
+    },
+    {
+      "word": "meticulous, тщательный",
+      "translate": "very detailed"
+    },
+    {
+      "word": "animated, оживленный",
+      "translate": "very lively"
+    },
+    {
+      "word": "bustling, очень шумный",
+      "translate": "very crowded"
+    },
+    {
+      "word": "basic, очень простой",
+      "translate": "very simple"
+    },
+    {
+      "word": "towering, очень высокий",
+      "translate": "very tall"
+    },
+    {
+      "word": "disparate, очень разный",
+      "translate": "very different"
+    },
+    {
+      "word": "desolate, очень пустой",
+      "translate": "very empty"
+    },
+    {
+      "word": "spotless, безупречный",
+      "translate": "very clean"
+    },
+    {
+      "word": "huge, огромный",
+      "translate": "very large"
+    },
+    {
+      "word": "tiny, крошечный",
+      "translate": "very little"
+    }
+  ],
+  [
+    {
+      "word": "кілемше, коврик",
+      "translate": "rug"
+    },
+    {
+      "word": "дүкен қожайыны, владелец магазина",
+      "translate": "shopkeeper"
+    },
+    {
+      "word": "социолог, социолог",
+      "translate": "sociologist"
+    },
+    {
+      "word": "күнбағыс, подсолнечник",
+      "translate": "sunflower"
+    },
+    {
+      "word": "беталыс, тенденция",
+      "translate": "tendency"
+    },
+    {
+      "word": "батылы жету, осмелиться",
+      "translate": "dare"
+    },
+    {
+      "word": "кеңейту, расширить",
+      "translate": "extended"
+    },
+    {
+      "word": "тонау, ограбить",
+      "translate": "mug"
+    },
+    {
+      "word": "кезекте тұру, стоять в очереди",
+      "translate": "quewe up"
+    },
+    {
+      "word": "қатысу, принимать участие",
+      "translate": "take part in"
+    },
+    {
+      "word": "айналдыру, вращать",
+      "translate": "twirl"
+    },
+    {
+      "word": "ашулы, кекті, злобно",
+      "translate": "angrily"
+    },
+    {
+      "word": "әдейі, намеренно",
+      "translate": "intentionally"
+    },
+    {
+      "word": "бастар алдында, для начала",
+      "translate": "for a standart"
+    },
+    {
+      "word": "сынаулар мен қателері, пробы и ошибки",
+      "translate": "trial and error"
+    },
+    {
+      "word": "сәуле шашқан, сияющий",
+      "translate": "shining"
+    },
+    {
+      "word": "жылтыр, сверкающий",
+      "translate": "sparkling"
+    },
+    {
+      "word": "күдікті, подозрительный",
+      "translate": "suspicious"
+    },
+    {
+      "word": "күтпеген жайт, неожиданный",
+      "translate": "unexpected"
+    },
+    {
+      "word": "бүкіл әлемдік, глобальный",
+      "translate": "worldwide"
+    },
+    {
+      "word": "тосқауыл, барьер",
+      "translate": "barrier"
+    },
+    {
+      "word": "шекара, граница",
+      "translate": "boundary"
+    },
+    {
+      "word": "төбе, потолок",
+      "translate": "ceiling"
+    },
+    {
+      "word": "әрекет, действие",
+      "translate": "deed"
+    },
+    {
+      "word": "жуғыш зат, моющее средство",
+      "translate": "detergent"
+    },
+    {
+      "word": "товарлар, товар",
+      "translate": "goodies"
+    },
+    {
+      "word": "кеспе, лапша",
+      "translate": "noodle"
+    },
+    {
+      "word": "қысу, щипать",
+      "translate": "pinch"
+    },
+    {
+      "word": "табылатын жер, рака",
+      "translate": "shrine"
+    },
+    {
+      "word": "вальс, вальс",
+      "translate": "waltz"
+    },
+    {
+      "word": "болу, содержать",
+      "translate": "contain"
+    },
+    {
+      "word": "ыдыс жуу, мыть посуду",
+      "translate": "wash up"
+    },
+    {
+      "word": "өлтіру, убивать",
+      "translate": "assainate"
+    },
+    {
+      "word": "бейбіт, мирный",
+      "translate": "peacefull"
+    },
+    {
+      "word": "тұтқын, заключенный",
+      "translate": "prisoner"
+    },
+    {
+      "word": "шешу, разобраться",
+      "translate": "sort things out"
+    },
+    {
+      "word": "жабырқау, упавший духом",
+      "translate": "downhearted"
+    },
+    {
+      "word": "сасқан, потрясенный",
+      "translate": "overhelmed"
+    },
+    {
+      "word": "тығырық, безвыходное положение",
+      "translate": "deadlock"
+    },
+    {
+      "word": "жек көрушілік, ненависть",
+      "translate": "hatred"
+    }
+  ],
+  [
+    {
+      "word": "жою, отменять",
+      "translate": "abolish"
+    },
+    {
+      "word": "көмектесу, продвигать",
+      "translate": "promote"
+    },
+    {
+      "word": "ретке келтіру, разобраться",
+      "translate": "sort out"
+    },
+    {
+      "word": "батыл, храбро",
+      "translate": "courageously"
+    },
+    {
+      "word": "құрту, портить",
+      "translate": "corrupt"
+    },
+    {
+      "word": "сыпайы, деликатный",
+      "translate": "delicate"
+    },
+    {
+      "word": "қызықсыз, мрачный",
+      "translate": "dreary"
+    },
+    {
+      "word": "өрлеу, в гору",
+      "translate": "uphill"
+    },
+    {
+      "word": "қатынас, отношение",
+      "translate": "altitude"
+    },
+    {
+      "word": "шығу, подъем, восхождение",
+      "translate": "ascent"
+    },
+    {
+      "word": "сайлау, выбор",
+      "translate": "election"
+    },
+    {
+      "word": "тыныштық, спокойствие, тишина",
+      "translate": "stillness"
+    },
+    {
+      "word": "араластыру, перемешивать",
+      "translate": "stir"
+    },
+    {
+      "word": "жүктеу, загружать",
+      "translate": "upload"
+    },
+    {
+      "word": "дауыс беру, голосовать",
+      "translate": "vote"
+    },
+    {
+      "word": "ақпа құлақ, рассеяно",
+      "translate": "absently"
+    },
+    {
+      "word": "салғырт, нехотя, неохотно",
+      "translate": "grudgingly"
+    },
+    {
+      "word": "ақылды, разумно",
+      "translate": "sensibly"
+    },
+    {
+      "word": "ұялып, застенчиво",
+      "translate": "timidly"
+    },
+    {
+      "word": "өмір үшін қауіпті, смертельный",
+      "translate": "deadly"
+    },
+    {
+      "word": "алдағы, предстоящий",
+      "translate": "аhead"
+    },
+    {
+      "word": "доғар, прекрати это! не наглей!",
+      "translate": "come off it"
+    },
+    {
+      "word": "түсінікті, понятно",
+      "translate": "paint taken"
+    },
+    {
+      "word": "қашаннан бері, с каких пор?",
+      "translate": "since when?"
+    },
+    {
+      "word": "осы-ақ па?, и что?",
+      "translate": "so what?"
+    },
+    {
+      "word": "осындай сияқты, что-то вроде того",
+      "translate": "stuff like that"
+    },
+    {
+      "word": "жылтыр, глянцевый",
+      "translate": "glossy"
+    },
+    {
+      "word": "қарны ашқан, голодающий",
+      "translate": "starving"
+    },
+    {
+      "word": "қатал, строгий",
+      "translate": "strict"
+    },
+    {
+      "word": "көмек, помощь",
+      "translate": "aid"
+    },
+    {
+      "word": "жеңілдік, облегчение",
+      "translate": "relief"
+    },
+    {
+      "word": "құрбан, жертва",
+      "translate": "victim"
+    },
+    {
+      "word": "алаңдату, отвлекать",
+      "translate": "distract"
+    },
+    {
+      "word": "түсіну, понимать",
+      "translate": "perceive"
+    },
+    {
+      "word": "алақтау, выглядываться",
+      "translate": "peer"
+    },
+    {
+      "word": "сақтау, сохранять",
+      "translate": "preserve"
+    },
+    {
+      "word": "шегіну, отходить",
+      "translate": "retreat"
+    },
+    {
+      "word": "еске алу, вспомнить",
+      "translate": "recall"
+    },
+    {
+      "word": "ояту, пробуждать",
+      "translate": "evoke"
+    },
+    {
+      "word": "тәуекел ету, рисковать",
+      "translate": "venture"
+    }
+  ],
+  [
+    {
+      "word": "тәкаппар, высокомерный",
+      "translate": "arrogant"
+    },
+    {
+      "word": "көңілді, веселый",
+      "translate": "bubbly"
+    },
+    {
+      "word": "сүйкімді, очаровательный",
+      "translate": "charming"
+    },
+    {
+      "word": "арсыз, наглый",
+      "translate": "cheeky"
+    },
+    {
+      "word": "есалаң, сумасшедший",
+      "translate": "scatty"
+    },
+    {
+      "word": "өзіне риза, самодовольный",
+      "translate": "smug"
+    },
+    {
+      "word": "қатігез, жестокий",
+      "translate": "violent"
+    },
+    {
+      "word": "ақылды, остроумный",
+      "translate": "witty"
+    },
+    {
+      "word": "қопал, ыңғайсыз, неловкий",
+      "translate": "awkwand"
+    },
+    {
+      "word": "мазасыз, сварливый",
+      "translate": "disagreeable"
+    },
+    {
+      "word": "талғампаз, придирчивый",
+      "translate": "choosy"
+    },
+    {
+      "word": "тартымды, обворожительный",
+      "translate": "enchanting"
+    },
+    {
+      "word": "қиын мінезді, невыносимый",
+      "translate": "insupportable"
+    },
+    {
+      "word": "салақ, неприятный",
+      "translate": "seruffy"
+    },
+    {
+      "word": "күлкілі, смехотворный",
+      "translate": "ridiculous"
+    },
+    {
+      "word": "сабырлы, терпимый",
+      "translate": "tolerable"
+    },
+    {
+      "word": "үрей, беспокойство",
+      "translate": "anxiety"
+    },
+    {
+      "word": "мінез, характер",
+      "translate": "disposition"
+    },
+    {
+      "word": "өсек, сплетни",
+      "translate": "gossip"
+    },
+    {
+      "word": "қорқынышты түс, кошмар",
+      "translate": "nightmare"
+    },
+    {
+      "word": "ерекше, феномен",
+      "translate": "phenomen"
+    },
+    {
+      "word": "дақ, пятно",
+      "translate": "stain"
+    },
+    {
+      "word": "қызарып ұялу, краснеть",
+      "translate": "blush"
+    },
+    {
+      "word": "кішірею, уменьшаться",
+      "translate": "decline to"
+    },
+    {
+      "word": "асырып айту, преувеличивать",
+      "translate": "exaggerate"
+    },
+    {
+      "word": "қиындықты жеңіп шығу, преодолеть",
+      "translate": "overcame"
+    },
+    {
+      "word": "дәл, нақ, определенно",
+      "translate": "definitely"
+    },
+    {
+      "word": "бір жақты, предвзятый",
+      "translate": "biased"
+    },
+    {
+      "word": "салдық, цифровой",
+      "translate": "digital"
+    },
+    {
+      "word": "қуанышты, приносящий радость",
+      "translate": "enjoyable"
+    },
+    {
+      "word": "лезде, мгновенный",
+      "translate": "instaneous"
+    },
+    {
+      "word": "жаппай, массовый",
+      "translate": "mass"
+    },
+    {
+      "word": "шектеулі, ограниченный",
+      "translate": "narrow-minded"
+    },
+    {
+      "word": "арандатушы, провокационный",
+      "translate": "provocative"
+    },
+    {
+      "word": "амалсыздан, делающий с неохотой",
+      "translate": "reluctant"
+    },
+    {
+      "word": "қысқа мерзімді, недолговечный",
+      "translate": "short-lived"
+    },
+    {
+      "word": "жабу, прикрывать",
+      "translate": "cover up"
+    },
+    {
+      "word": "емді, целебно",
+      "translate": "healthily"
+    },
+    {
+      "word": "істеуге міндетті, обязан делать что-либо",
+      "translate": "obliged to"
+    },
+    {
+      "word": "сауда, коммерция",
+      "translate": "commerce"
+    }
+  ],
+  [
+    {
+      "word": "просить, спрашивать, требовать, сұрау, талап ету",
+      "translate": "ask for"
+    },
+    {
+      "word": "задать вопрос, сұрақ қою",
+      "translate": "ask round"
+    },
+    {
+      "word": "отсутствовать, болмау",
+      "translate": "be out"
+    },
+    {
+      "word": "сломаться, перестать работать, бұзылу, істен шығу",
+      "translate": "break\ndown"
+    },
+    {
+      "word": "прорваться в, бөліңіз",
+      "translate": "break into"
+    },
+    {
+      "word": "чистить, убирать, приводить в порядок, тазалау",
+      "translate": "clean up"
+    },
+    {
+      "word": "зарегистрироваться, тіркеу",
+      "translate": "check in"
+    },
+    {
+      "word": "проверить, выписаться, шығу, тексеру",
+      "translate": "check out"
+    },
+    {
+      "word": "перезвонить, қайта хабарласу",
+      "translate": "call back"
+    },
+    {
+      "word": "успокоиться, тынышталу",
+      "translate": "call down"
+    },
+    {
+      "word": "возвращаться, қайта оралу",
+      "translate": "come back"
+    },
+    {
+      "word": "входить, кіру",
+      "translate": "come in"
+    },
+    {
+      "word": "давай! пошли! брось!, қойшы! кеттік! таста!",
+      "translate": "come on"
+    },
+    {
+      "word": "отрезать, прерывать, прерывать, закончить, кесу, аяқтау, бөлу",
+      "translate": "cut off"
+    },
+    {
+      "word": "выяснить, понять, разобраться, түсіну, анықтау",
+      "translate": "figure out"
+    },
+    {
+      "word": "заполнить(форму, анкету), толтыру (форманы, анкетаны)",
+      "translate": "fill in"
+    },
+    {
+      "word": "узнать, выяснить, білу, табу",
+      "translate": "find out"
+    },
+    {
+      "word": "ладить, быть в хороших отношениях, жақсы қарым-қатынаста болу",
+      "translate": "get along"
+    },
+    {
+      "word": "встретиться, кездесу",
+      "translate": "get to- gether"
+    },
+    {
+      "word": "вставать с постели, тұру (төсектен)",
+      "translate": "get up"
+    },
+    {
+      "word": "отказаться, бросить, сдаться, бас тарту, тастау, берілу",
+      "translate": "give up"
+    },
+    {
+      "word": "возвращаться, қайта оралу",
+      "translate": "go back"
+    },
+    {
+      "word": "продолжать, происходить, жалғастыру",
+      "translate": "go on"
+    },
+    {
+      "word": "уходить, уезжать, кету",
+      "translate": "go away"
+    },
+    {
+      "word": "вырасти, стать взрослым, өсу, ересек болу",
+      "translate": "grow up"
+    },
+    {
+      "word": "провесить трубку телефона,\nотключиться, телефонның тұтқасын қою",
+      "translate": "hang up"
+    },
+    {
+      "word": "ждать на телефонной линии, не отклю-\nчаться, желіде күту тұру, тұтқаны\nқоймау",
+      "translate": "hold on"
+    },
+    {
+      "word": "продолжать, жалғастыру",
+      "translate": "keep on"
+    },
+    {
+      "word": "присматривать, ухаживать, заботиться, қарау, қамқор болу",
+      "translate": "look after"
+    },
+    {
+      "word": "искать, іздуеу",
+      "translate": "look for"
+    }
+  ],
+  [
+    {
+      "word": "предвкушать, ожидать с удоволь- ствием, ждать с нетерпением, тағатсыздана күту",
+      "translate": "look for- ward"
+    },
+    {
+      "word": "искать(в книге словаре), іздеу (сөздік кітаптан)",
+      "translate": "look up"
+    },
+    {
+      "word": "составить, құрастыру, жасау",
+      "translate": "make up"
+    },
+    {
+      "word": "придумать, ойлап табу",
+      "translate": "pay back"
+    },
+    {
+      "word": "расплатиться, полностью погасить\nдолг, төлеу, қарыздан құтылу",
+      "translate": "pay off"
+    },
+    {
+      "word": "выбрать, таңдаңыз",
+      "translate": "pick out"
+    },
+    {
+      "word": "поднять, заехать, зайти, көтеру, алу, кіру, бару",
+      "translate": "pick up"
+    },
+    {
+      "word": "тренировка, оқыту",
+      "translate": "play\naround"
+    },
+    {
+      "word": "убирать, прятать, избавляться, құрту, жасыру, құтылу",
+      "translate": "put away"
+    },
+    {
+      "word": "положить обратно, қайта қою",
+      "translate": "put back"
+    },
+    {
+      "word": "надеть одежду, киім кию",
+      "translate": "put on"
+    },
+    {
+      "word": "терпеть, мириться, шыдау, көну",
+      "translate": "put up with"
+    },
+    {
+      "word": "записаться, поступить (на работу), жазылу, түсу (жұмысқа)",
+      "translate": "sign up"
+    },
+    {
+      "word": "сесть, отыру",
+      "translate": "sit down"
+    },
+    {
+      "word": "встать, тұру",
+      "translate": "stand up"
+    },
+    {
+      "word": "включить, қосу",
+      "translate": "switch on"
+    },
+    {
+      "word": "выключить, сөндіру",
+      "translate": "switch off"
+    },
+    {
+      "word": "убирать, уносить, уводить, отбирать,\nудалять, взлетать, алып қою, алып кету, ұшу",
+      "translate": "take\naway\/off"
+    },
+    {
+      "word": "обсуждать, талқылау",
+      "translate": "talk over"
+    },
+    {
+      "word": "обдумать, ойлап көру",
+      "translate": "think over"
+    },
+    {
+      "word": "примерять (одежду), байқап көру, киіп көру, өлшеп көру",
+      "translate": "try on"
+    },
+    {
+      "word": "испытать, попробовать, сынап көру",
+      "translate": "try out"
+    },
+    {
+      "word": "уменшить (звук, свет), азайт, төмендету",
+      "translate": "turn down"
+    },
+    {
+      "word": "выключить (радио), гасить (свет), за- глушить (мотор), өшіру(радио, мотор)",
+      "translate": "turn off"
+    },
+    {
+      "word": "включить (радио), привести в дей-\nствие, қосу(радио), іске қосу",
+      "translate": "turn on"
+    },
+    {
+      "word": "появиться, приходить, приезжать,\nусиливать (звук), пайда болу, келу, жоғары-\nлату (дыбысты)",
+      "translate": "turn up"
+    },
+    {
+      "word": "полностью использовать, израсходо- вать, истощать, изнурять, тауысу, бітіру(энергияны), тоздыру",
+      "translate": "use up"
+    },
+    {
+      "word": "будить, просыпаться, бодроствовать, ояту, ояну",
+      "translate": "wake up"
+    },
+    {
+      "word": "отработать, отделаться,\nосвободиться, өндеу(жұмыс ақысын),\nқұтылу, босау",
+      "translate": "work off"
+    },
+    {
+      "word": "записать (на бумаге), жазып алу (қағазға)",
+      "translate": "write down"
+    }
+  ],
+  [
+    {
+      "word": "сонымен қатар, более того",
+      "translate": "furthermore"
+    },
+    {
+      "word": "бастау үшін, начать с",
+      "translate": "to begin with"
+    },
+    {
+      "word": "қорытындылау, заключить",
+      "translate": "to conclude"
+    },
+    {
+      "word": "тағы не, что еще",
+      "translate": "what else"
+    },
+    {
+      "word": "бәрінен бұрын, прежде всего",
+      "translate": "above all"
+    },
+    {
+      "word": "сонымен қатар, а также",
+      "translate": "as well as"
+    },
+    {
+      "word": "және тағы басқа, и так далее",
+      "translate": "and so on"
+    },
+    {
+      "word": "тап сол кезде, в это время",
+      "translate": "in the meantime"
+    },
+    {
+      "word": "және тағы басқалар, и так далее и тому подоб-\nное",
+      "translate": "and so on and so forth"
+    },
+    {
+      "word": "саған бола, сенің кесіріңнен, из-за тебя",
+      "translate": "because of you"
+    },
+    {
+      "word": "жалпы, общий",
+      "translate": "overall"
+    },
+    {
+      "word": "мысалы, например",
+      "translate": "for instance"
+    },
+    {
+      "word": "сіз білетіндей, как вы знаете",
+      "translate": "as you know"
+    },
+    {
+      "word": "бұл жағдайда, в этом случае",
+      "translate": "in this case"
+    },
+    {
+      "word": "басқа сөзбен айтқанда, другими словами",
+      "translate": "in other words"
+    },
+    {
+      "word": "көптеген жылдар бойы, на протяжений многих лет",
+      "translate": "for many years"
+    },
+    {
+      "word": "арасында, между",
+      "translate": "between the"
+    },
+    {
+      "word": "бұл үшін, из-за этого",
+      "translate": "because of this"
+    },
+    {
+      "word": "осы себептен, по этой причине",
+      "translate": "for this reason"
+    },
+    {
+      "word": "анық, очевидно",
+      "translate": "clearly"
+    },
+    {
+      "word": "табиғи түрде, естественно",
+      "translate": "naturally"
+    },
+    {
+      "word": "күтуге болады, можно ожидать",
+      "translate": "can be expected"
+    },
+    {
+      "word": "сөзсіз, конечно",
+      "translate": "surely"
+    },
+    {
+      "word": "көрініп тұрғандай, как можно",
+      "translate": "as can be seen"
+    },
+    {
+      "word": "жалпы, в общем",
+      "translate": "in general"
+    },
+    {
+      "word": "басқаша айтқанда, бұл, другими словами, это",
+      "translate": "in other words, that is"
+    },
+    {
+      "word": "жалпы, в целом",
+      "translate": "on the whole"
+    },
+    {
+      "word": "көп бөлігі үшін, по большой части",
+      "translate": "for the most part"
+    },
+    {
+      "word": "көп жағдайда, в большинстве случаев",
+      "translate": "in most cases"
+    },
+    {
+      "word": "сондықтан мен сұрап\nжатырмын, поэтому я спрашиваю",
+      "translate": "that’s why i am asking"
+    },
+    {
+      "word": "негізінен, в основном",
+      "translate": "mainly"
+    },
+    {
+      "word": "орнына, скорее",
+      "translate": "rather"
+    },
+    {
+      "word": "қарапайым сөзбен айтқанда, проще говоря",
+      "translate": "to put it more"
+    },
+    {
+      "word": "салыстырғанда, в сравнений",
+      "translate": "in comparison"
+    },
+    {
+      "word": "егерде, даже если",
+      "translate": "even if"
+    },
+    {
+      "word": "қарамастан, несмотря на",
+      "translate": "despite of"
+    },
+    {
+      "word": "егер бірдеңе дұрыс болмаса, если что-то пойдет не так",
+      "translate": "if something goes\nwrong"
+    },
+    {
+      "word": "менен басқа, кроме меня",
+      "translate": "except me"
+    },
+    {
+      "word": "жаңа, новый",
+      "translate": "new"
+    },
+    {
+      "word": "Көп сөйлеу, болтать",
+      "translate": "blab"
+    }
   ]
 ]
